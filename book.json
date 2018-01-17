@@ -1,0 +1,35 @@
+{
+    "title": "Fuck GFW",
+    "description": "科学上网教程",
+    "author": "darrenliuwei",
+    "language": "zh-hans",
+    "root": ".",
+
+    "plugins": [
+        "donate",
+        "github-buttons@2.1.0",
+        "edit-link"
+    ],
+    
+    "pluginsConfig": {
+        "donate": {
+            "wechat": "https://darrenliuwei.com/images/wechatpay.jpg",
+            "alipay": "https://darrenliuwei.com/images/alipay.jpg",
+            "title": "",
+            "button": "打赏",
+            "alipayText": "支付宝打赏",
+            "wechatText": "微信打赏"
+        },
+        "github-buttons": {
+            "repo": "darrenliuwei/fuck-gfw",
+            "types": [
+                "star"
+            ],
+            "size": "small"
+        },
+        "edit-link": {
+            "base": "https://github.com/darrenliuwei/fuck-gfw/edit/master",
+            "label": "Edit This Page"
+        }
+    }
+}
