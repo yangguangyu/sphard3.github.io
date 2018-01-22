@@ -1,4 +1,4 @@
-# 自建梯子
+# 自建 ssr 翻墙
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/_6lRX9S4knI" frameborder="0" gesture="media" allow="encrypted-media" allowfullscreen></iframe>
 <br>
