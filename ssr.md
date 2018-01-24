@@ -6,32 +6,19 @@
 http://www.bilibili.com/video/av17968174/
 
 # 购买VPS服务器
-VPS服务器需要选择国外的，首选国际知名的vultr，速度不错、稳定且性价比高。
-使用下面的注册地址可以获得 **10美元的代金卷**
-vultr注册地址：**https://www.vultr.com/?ref=7295225**
+VPS服务器需要选择国外的，首选国际知名的 [Vultr](https://www.vultr.com/?ref=7295225)，速度不错、稳定且性价比高。<br>
+使用下面的注册地址可以获得 **10美元的代金卷**<br>
+[Vultr](https://www.vultr.com/?ref=7295225)注册地址：**https://www.vultr.com/?ref=7295225**
 
-![](https://www.vultr.com/media/banner_1.png 'vultr')
+![](https://www.vultr.com/media/banner_1.png 'Vultr')
 
-虽然是英文界面，但是现在的浏览器都有网页翻译功能，鼠标点击右键，选择网页翻译即可翻译成中文。
 注册并邮件激活账号，充值后即可购买服务器。充值方式是PayPal或支付宝
 
-2.5美元/月的服务器配置信息：单核 512M内存 20G SSD硬盘 100M带宽 500G流量/月
-
-5美元/月的服务器配置信息：单核 1G内存 25G SSD硬盘 100M带宽 1000G流量/月
-
-10美元/月的服务器配置信息：单核 2G内存 40G SSD硬盘 100M带宽 2000G流量/月
-
-20美元/月的服务器配置信息：2cpu 4G内存 60G SSD硬盘 100M带宽 3000G流量/月
-
-40美元/月的服务器配置信息：4cpu 8G内存 100G SSD硬盘 100M带宽 4000G流量/月
-
-vultr实际上是折算成小时来计费的，比如服务器是5美元1个月，那么每小时收费为5/30/24=0.0069美元 会自动从账号中扣费，只要保证账号有钱即可。如果你部署的服务器实测后速度不理想，你可以把它删掉（destroy），重新换个地区的服务器来部署，因为新的服务器就是新的ip，所以当ip被墙时这个方法很有用。
+[Vultr](https://www.vultr.com/?ref=7295225)实际上是折算成小时来计费的，比如服务器是5美元1个月，那么每小时收费为5/30/24=0.0069美元 会自动从账号中扣费，只要保证账号有钱即可。如果你部署的服务器实测后速度不理想，你可以把它删掉（destroy），重新换个地区的服务器来部署，因为新的服务器就是新的ip，所以当ip被墙时这个方法很有用。
 
 计费从你开通服务器开始算的，不管你有没有使用，即使服务器处于关机状态仍然会计费，如果你没有开通服务器就不算。比如你今天早上开通了服务器，但你有事情，晚上才部署，那么这段时间是会计费的。同理，如果你早上删掉服务器，第二天才开通新的服务器，那么这段时间是不会计费的。
 
 温馨提醒：同样的服务器位置，不同的宽带类型和地区所搭建的账号的翻墙速度会不同，以实测为准。
-
-购买vps服务器时，不推荐首选洛杉矶和日本位置的服务器，因为这两个位置的服务器前期被很多大陆同胞疯狂追捧，导致现在一开洛杉矶或日本服务器就会遇到被墙的ip，开到能联通的ip概率很小。
 
 下面是图片演示步骤：
 ![1](https://i.imgur.com/QuQEHCn.png)
@@ -46,7 +33,7 @@ vultr实际上是折算成小时来计费的，比如服务器是5美元1个月�
 
 # 部署VPS服务器
 Windows用户请看：
-购买服务器后，需要部署一下。因为你买的是虚拟东西，而且又远在国外，我们需要一个叫 Git Bash 的软件来远程部署。
+购买服务器后，需要部署一下。因为你买的是虚拟东西，而且又远在国外，我们需要一个叫 Git Bash 的软件来远程部署。<br>
 官方免费下载地址：https://git-scm.com/downloads
 ![git bash](https://i.imgur.com/TM8SCDQ.png)
 如果你是Linux或者MacOS用户，请忽略上面的软件
@@ -71,7 +58,10 @@ wget -N --no-check-certificate https://softs.fun/Bash/ssr.sh && chmod +x ssr.sh 
 <br>
 ![ssr1](https://i.imgur.com/rxKvBqU.png)
 <br>
-如上图出现管理界面后，**输入数字1来安装SSR服务端。**如果输入1后不能进入下一步，那么请重新连接VPS服务器，然后输入快捷管理命令 bash ssr.sh 再尝试
+如上图出现管理界面后，**输入数字1来安装SSR服务端。**
+
+如果输入1后不能进入下一步，那么请重新连接VPS服务器，然后输入快捷管理命令 bash ssr.sh 再尝试
+
 选择端口直接回车选择默认的就好了。当然了，你也可以设置其他的端口，这个根据个人需求
 <br>
 ![ssr2](https://i.imgur.com/mimLhWy.png)
@@ -115,29 +105,16 @@ chmod +x bbr.sh
 最后重启服务器
 
 # ssr客户端下载
-Windows SSR客户端  [点击下载地址](https://github.com/shadowsocksr-backup/shadowsocksr-csharp/releases '下载地址')
-MacOS SSR客户端  [点击下载地址](https://github.com/shadowsocksr-backup/ShadowsocksX-NG/releases '下载地址')
-Linux SSR客户端  [点击下载地址](https://github.com/erguotou520/electron-ssr/releases '下载地址')
-安卓 SSR客户端  [点击下载地址](https://github.com/shadowsocksr-backup/shadowsocksr-android/releases/download/3.4.0.8/shadowsocksr-release.apk '下载地址')
+Windows SSR客户端  [点击下载地址](https://github.com/shadowsocksr-backup/shadowsocksr-csharp/releases '下载地址')<br>
+MacOS SSR客户端  [点击下载地址](https://github.com/shadowsocksr-backup/ShadowsocksX-NG/releases '下载地址')<br>
+Linux SSR客户端  [点击下载地址](https://github.com/erguotou520/electron-ssr/releases '下载地址')<br>
+安卓 SSR客户端  [点击下载地址](https://github.com/shadowsocksr-backup/shadowsocksr-android/releases/download/3.4.0.8/shadowsocksr-release.apk '下载地址')<br>
 
-苹果手机SSR客户端：Potatso Lite、Potatso、shadowrocket都可以作为SSR客户端，但这些软件目前已经在国内的app商店下架，可以用美区的appid账号来下载。但是，如果你配置的SSR账号兼容SS客户端，或者协议选择origin且混淆选择plain，那么你可以选择苹果SS客户端软件（即协议和混淆可以不填），APP商店里面有很多，比如：openwingy、superwingy、bestwingy、wingy+、greatwingy等。
+苹果手机SSR客户端：Potatso Lite、shadowrocket都可以作为SSR客户端，但是，如果你配置的SSR账号兼容SS客户端，或者协议选择origin且混淆选择plain，那么你可以选择苹果SS客户端软件（即协议和混淆可以不填），APP商店里面有很多，比如：openwingy、superwingy、bestwingy等。
 
 有了账号后，打开SSR客户端，填上信息，这里以Windows版的SSR客户端为例子：
 ![ssr13](https://i.imgur.com/LA81WuS.png)
 
-在对应的位置，填上服务器IP、服务器端口、密码、加密方式、协议和混淆，最后点击确认<br>
+在对应的位置，填上服务器IP、服务器端口、密码、加密方式、协议和混淆，最后点击确认
+
 **现在你就可以愉快地科学上网了**
-
-# 常见问题解决方法
-
-1、用了一段时间发现SSR账号用不了了？
-
-多半是被墙了，即ip失效。首先ping一下自己的ip，看看能不能ping的通，ping不通那么就是ip被墙了，遇到这种情况重新部署一个新的服务器，新的服务器就是新的ip。关于怎么ping ip的方法，可以自行网上搜索，很简单。vultr服务商是折算成小时计费，且开通和删除服务器非常方便（新服务器即新ip。大多数vps服务商都没有这样的服务，一般的vps服务商可能会提供更换1次ip的服务，如果你买的是别家的vps，一定要了解是否能够更换ip，假如不能，那么万一你的ip不幸被墙，钱就打水漂了）
-
-2、刚搭建好的ssr账号，ip能ping通，但是还是用不了？
-
-首选排除杀毒软件的干扰，尤其是国产杀毒软件，比如360安全卫生、360杀毒软件、腾讯管家、金山卫士等。这些东西很容易干扰翻墙上网，如果你的电脑安装了这样的东西，建议至少翻墙时别用。其次，检查下SSR信息是否填写正确。浏览器的代理方式是否是ssr代理，即127.0.0.1 1080端口。如果以上条件都排除，还是用不了，那么可以更换端口、加密方式、协议、混淆，或者更换服务器位置
-
-3、vultr服务商提供的 VPS 服务器是单向流量计算，有的vps服务商是双向流量计算，单向流量计算对于用户来说更实惠。因为我们是在 VPS 服务器上部署SSR服务端后，再用SSR客户端翻墙，所以SSR服务端就相当于中转，比如我们看一个视频，必然会产生流量，假如消耗流量80M，那么VPS服务器会产生上传80M和下载80M流量，vultr服务商只计算单向的80M流量。如果是双向计算流量，那么会计算为160M流量
-
-4、如果你想把搭建的账号给多人使用，不用额外设置端口，因为一个账号就可以多人使用
