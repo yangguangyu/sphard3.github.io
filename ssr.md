@@ -1,5 +1,5 @@
 # 自建 ssr 翻墙
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_6lRX9S4knI" frameborder="0" gesture="media" allow="encrypted-media" allowfullscreen></iframe>
+<iframe width="100%" height="315" src="https://www.youtube.com/embed/_6lRX9S4knI" frameborder="0" gesture="media" allow="encrypted-media" allowfullscreen></iframe>
 <br>
 如果你没有办法点开上面的YouTube视频，可以点下面的哔哩哔哩视频链接
 http://www.bilibili.com/video/av17968174/

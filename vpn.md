@@ -1,5 +1,5 @@
 # 自建 VPN 翻墙
-
+<iframe width="100%" height="315" src="https://www.youtube.com/embed/PdAYlMIyICk" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 本教程是以 Ubuntu server 为例子，如果你用的是其他系统，请使用对应的安装软件的命令<br>
 如果你使用的不是 root 账号，那么在安装软件的时候可能会出现权限不够，可以通过 sudo 来增加权限解决问题
 # 安装pptpd 
