@@ -59,6 +59,8 @@ chmod +x bbr.sh
 最后重启服务器
 
 # ssr 客户端下载
+下面ss/ssr客户端都是在GitHub上开源免费的，有兴趣的可以去看看源码或者贡献自己一份力量
+
 Windows SSR客户端  [点击下载地址](https://github.com/shadowsocksr-backup/shadowsocksr-csharp/releases '下载地址')<br>
 MacOS SSR客户端  [点击下载地址](https://github.com/shadowsocksr-backup/ShadowsocksX-NG/releases '下载地址')<br>
 Linux SSR客户端  [点击下载地址](https://github.com/erguotou520/electron-ssr/releases '下载地址')<br>

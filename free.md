@@ -1,12 +1,14 @@
 # 免费翻墙
 
-有时候，我们可能只是想临时上一下外网，或者说有时候我们自建的ss/ssr被封了，就需要免费翻墙软件临时代替一下。
-每个人都有不同的需求，但不管怎样，免费翻墙软件的需求还是挺大的。
-所以在这里给大家介绍一些好用的免费翻墙软件。
+有时候，我们可能只是想临时上一下外网，或者说有时候我们自建的ss/ssr或者VPN被封了，就需要免费翻墙软件临时代替一下
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jJycMNEF4Ec" frameborder="0" gesture="media" allow="encrypted-media" allowfullscreen></iframe>
+每个人都有不同的需求，但不管怎样，免费翻墙软件的需求还是挺大的
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qrYC5nS7gZw" frameborder="0" gesture="media" allow="encrypted-media" allowfullscreen></iframe>
+所以在这里给大家介绍一些好用的免费翻墙软件
+
+<iframe width="100%" height="315" src="https://www.youtube.com/embed/jJycMNEF4Ec" frameborder="0" gesture="media" allow="encrypted-media" allowfullscreen></iframe>
+
+<iframe width="100%" height="315" src="https://www.youtube.com/embed/qrYC5nS7gZw" frameborder="0" gesture="media" allow="encrypted-media" allowfullscreen></iframe>
 
 # 蓝灯
 * 优点：有免费版，并且抗封能力较强

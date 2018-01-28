@@ -45,7 +45,7 @@ user pptpd userpasswd *
 ```
 vi /etc/sysctl.conf
 ```
-找到 #net.ipv4.ip_forward=1 这一行，删掉 # 号，开启 ipv4 forward
+找到 `#net.ipv4.ip_forward=1` 这一行，删掉 # 号，开启 ipv4 forward
 ```
 sysctl -p
 ```

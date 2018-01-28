@@ -10,3 +10,4 @@
   - [搭建ssr翻墙](ssr.md)
   - [搭建VPN翻墙](vpn.md)
 * [结语](end.md)
+* [感谢](https://darrenliuwei.com/thanks)
