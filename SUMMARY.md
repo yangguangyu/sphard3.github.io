@@ -9,5 +9,6 @@
   - [连接服务器](lianjie.md)
   - [搭建ssr翻墙](ssr.md)
   - [搭建VPN翻墙](vpn.md)
+  - [连不上VPN?](vpn-error.md)
 * [结语](end.md)
 * [感谢](https://darrenliuwei.com/thanks)
