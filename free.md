@@ -22,7 +22,7 @@
 * 缺点：有流量限制：每月2GB，验证邮箱后每月10GB
 * 系统：Linux、Windows、MacOS、Android、iPhone
 * 中文：支持中文
-* 下载：[Windscribe官网](https://windscribe.com/?affid=6axgjrcs 'Windscribe官网')(需翻墙)
+* 下载：[Windscribe官网](https://windscribe.com/?affid=6axgjrcs 'Windscribe官网')(需翻墙)，[GitHub地址](https://github.com/darrenliuwei/software/issues/1 'GitHub地址')(不需要翻墙)
 
 # 萤火虫
 * 优点：无流量限制
@@ -36,14 +36,14 @@
 * 缺点：不稳定，不支持iPhone、iPad
 * 系统：Linux、Windows、Android
 * 中文：支持中文
-* 下载：[无界官网](http://www.wujieliulan.com/download.htm '无界官网')(需翻墙)
+* 下载：[无界官网](http://www.wujieliulan.com/download.htm '无界官网')(需翻墙)，[GitHub地址](https://github.com/darrenliuwei/software/issues/2 'GitHub地址')(不需要翻墙)
 
 # 自由门
 * 优点：无流量限制
 * 缺点：不稳定，不支持iPhone、iPad 和 Linux
 * 系统：Windows、Android
 * 中文：支持中文
-* 下载：[自由门官网](http://dongtaiwang.com/loc/download.php '自由门官网')(需翻墙)
+* 下载：[自由门官网](http://dongtaiwang.com/loc/download.php '自由门官网')(需翻墙)，[GitHub地址](https://github.com/darrenliuwei/software/issues/3 'GitHub地址')(不需要翻墙)
 
 # 赛风
 * 优点：无流量限制
