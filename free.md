@@ -57,4 +57,4 @@
 * 缺点：速度很慢，不稳定，翻墙时需使用专门的浏览器Tor Browser，不支持iPhone、iPad
 * 系统：Linux、Windows、MacOS、Android
 * 中文：网站无中文版，但软件有中文版
-* 下载：[Tor官网](https://www.torproject.org 'Tor官网')(需翻墙)
+* 下载：[Tor官网](https://www.torproject.org 'Tor官网')(需翻墙)，[GitHub地址](https://github.com/darrenliuwei/software/issues/4 'GitHub地址')(不需要翻墙)
