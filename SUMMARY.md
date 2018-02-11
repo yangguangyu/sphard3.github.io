@@ -11,4 +11,5 @@
   - [搭建VPN翻墙](vpn.md)
   - [连不上VPN?](vpn-error.md)
 * [结语](end.md)
+* [帮助](https://bbs.darrenliuwei.com)
 * [感谢](https://darrenliuwei.com/thanks)
