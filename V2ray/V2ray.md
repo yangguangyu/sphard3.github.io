@@ -1,13 +1,23 @@
 # 搭建V2ray翻墙
 V2ray官网：[https://www.v2ray.com](https://www.v2ray.com)
 
-## 下载 V2Ray
-预编译的压缩包：[GitHub地址](https://github.com/v2ray/v2ray-core/releases)
+白话文教程：[https://toutyrater.github.io](https://toutyrater.github.io)
 
-找到对应平台的压缩包，下载解压即可使用。
+## 时间校准
+对于 V2Ray，它的验证方式包含时间，就算是配置没有任何问题，如果时间不正确，也无法连接 V2Ray 服务器的，服务器会认为你这是不合法的请求。所以系统时间一定要正确，只要保证时间误差在一分钟之内就没问题。
 
-## Windows 和 Mac OS 安装方式
-通过上述方式下载的压缩包，解压之后可看到 v2ray 或 v2ray.exe。直接运行即可。
+对于 VPS(Linux) 可以执行命令 date -R 查看时间：
+```
+$ date -R
+Sun, 22 Jan 2017 10:10:36 -0500
+```
+
+## 修改上海时区
+这里以修改上海时间作为默认时区，如果有其他需要的，可以对应修改
+```
+rm -rf /etc/localtime #先删除默认的时区设置
+ln -s /usr/share/zoneinfo/Asia/Shanghai /etc/localtime #替换上海作为默认
+```
 
 ## Linux 安装脚本
 V2Ray 提供了一个在 Linux 中的自动化安装脚本。这个脚本会自动检测有没有安装过 V2Ray，如果没有，则进行完整的安装和配置；如果之前安装过 V2Ray，则只更新 V2Ray 二进制程序而不更新配置。
@@ -114,7 +124,3 @@ bash <(curl -L -s https://install.direct/go.sh)
 }
 ```
 上述配置唯一要改的地方就是你的服务器 IP，配置中已注明。上述配置会把除了局域网（比如访问路由器）之外的所有流量转发到你的服务器。
-
-## 运行
-1. 在 Windows 和 macOS 中，配置文件通常是 V2Ray 同目录下的 `config.json` 文件。直接运行 `v2ray` 或 `v2ray.exe` 即可。
-2. 在 Linux 中，配置文件通常位于 `/etc/v2ray/config.json` 文件。运行 `v2ray --config=/etc/v2ray/config.json`，或使用 systemd 等工具把 V2Ray 作为服务在后台运行。
