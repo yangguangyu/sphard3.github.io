@@ -15,6 +15,7 @@
   - [Ubuntu下使用V2ray](V2ray/Ubuntu.md)
   - [Windows下使用V2ray](V2ray/Windows.md)
   - [Android下使用V2ray](V2ray/Android.md)
+* [搭建OpenVPN翻墙](OpenVPN/OpenVPN.md)
 * [结语](end.md)
 * [帮助](https://bbs.darrenliuwei.com)
 * [感谢](https://darrenliuwei.com/thanks)

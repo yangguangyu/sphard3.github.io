@@ -1,5 +1,9 @@
-# 搭建V2ray翻墙
-V2ray官网：[https://www.v2ray.com](https://www.v2ray.com)
+# 搭建V2Ray翻墙
+<iframe width="100%" height="315" src="https://www.youtube.com/embed/GV4VhUOc7hg" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+如果你没有办法点开上面的YouTube视频，可以点下面的哔哩哔哩视频链接<br>
+`B站视频正在审核中......`
+
+V2Ray官网：[https://www.v2ray.com](https://www.v2ray.com)
 
 白话文教程：[https://toutyrater.github.io](https://toutyrater.github.io)
 
