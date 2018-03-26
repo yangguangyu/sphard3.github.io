@@ -1,7 +1,7 @@
 # Windows下使用V2Ray
 <iframe width="100%" height="315" src="https://www.youtube.com/embed/iMIjIu33KK8" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 如果你没有办法点开上面的YouTube视频，可以点下面的哔哩哔哩视频链接<br>
-`B站视频正在审核中......`
+https://www.bilibili.com/video/av21240441
 
 V2Ray官网：[https://www.v2ray.com](https://www.v2ray.com)
 
