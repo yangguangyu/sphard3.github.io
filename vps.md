@@ -3,7 +3,7 @@
 使用下面的注册地址可以获得 **10美元的代金卷**<br>
 [Vultr](https://www.vultr.com/?ref=7295225)注册地址：**https://www.vultr.com/?ref=7295225**
 
-![](https://www.vultr.com/media/banner_1.png 'Vultr')
+<a href="https://www.vultr.com/?ref=7295225"><img src="https://www.vultr.com/media/banner_1.png" width="100%" height="90"></a>
 
 注册并邮件激活账号，充值后即可购买服务器。充值方式是PayPal或支付宝
 

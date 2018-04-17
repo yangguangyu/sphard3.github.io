@@ -1,4 +1,5 @@
 # 连接服务器
+<a href="https://www.vultr.com/?ref=7295225"><img src="https://www.vultr.com/media/banner_1.png" width="100%" height="90"></a>
 如果你本地电脑使用的是 Windows 系统，那我推荐你下载一个叫 Git Bash 的软件来远程连接服务器<br>
 官方免费下载地址：https://git-scm.com/downloads
 ![git bash](https://i.imgur.com/TM8SCDQ.png)

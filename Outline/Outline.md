@@ -1,4 +1,9 @@
 # 搭建Outline翻墙
+<a href="https://www.vultr.com/?ref=7295225"><img src="https://www.vultr.com/media/banner_1.png" width="100%" height="90"></a>
+<iframe width="100%" height="315" src="https://www.youtube.com/embed/HYp759SJIKI" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+如果你没有办法点开上面的YouTube视频，可以点下面的哔哩哔哩视频链接<br>
+`视频正在B站审核中......`
+
 [Outline](https://getoutline.org/en/home)官网：[https://getoutline.org/en/home](https://getoutline.org/en/home)
 
 [Jigsaw](https://jigsaw.google.com)在[GitHub](https://github.com)上的官网：[https://github.com/Jigsaw-Code](https://github.com/Jigsaw-Code)

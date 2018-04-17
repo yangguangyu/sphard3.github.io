@@ -1,4 +1,5 @@
 # Ubuntu下使用V2Ray
+<a href="https://www.vultr.com/?ref=7295225"><img src="https://www.vultr.com/media/banner_1.png" width="100%" height="90"></a>
 V2Ray官网：[https://www.v2ray.com](https://www.v2ray.com)
 
 白话文教程：[https://toutyrater.github.io](https://toutyrater.github.io)

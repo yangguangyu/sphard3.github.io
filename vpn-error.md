@@ -1,4 +1,5 @@
 # 连不上VPN?
+<a href="https://www.vultr.com/?ref=7295225"><img src="https://www.vultr.com/media/banner_1.png" width="100%" height="90"></a>
 <iframe width="100%" height="315" src="https://www.youtube.com/embed/sh1-HuPT8tc" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 <br>
 如果你没有办法点开上面的YouTube视频，可以点下面的哔哩哔哩视频链接
