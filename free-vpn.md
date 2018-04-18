@@ -4,6 +4,9 @@
 
 <iframe width="100%" height="315" src="https://www.youtube.com/embed/qrYC5nS7gZw" frameborder="0" gesture="media" allow="encrypted-media" allowfullscreen></iframe>
 
+# FreeVPN
+FreeVPN官网：[https://www.freevpn.pw](https://www.freevpn.pw)
+
 # 蓝灯
 * 优点：有免费版，并且抗封能力较强
 * 缺点：有流量限制：每月500MB，不支持iPhone、iPad
