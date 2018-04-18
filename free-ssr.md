@@ -4,4 +4,8 @@
 
 免费Shadowsocks账号分享：[GitHub地址](https://github.com/gfw-breaker/ssr-accounts)
 
-SS/SSR免费账号：[GitHub地址](https://github.com/Alvin9999/new-pac/wiki/ss%E5%85%8D%E8%B4%B9%E8%B4%A6%E5%8F%B7)
+逗比根据地分享 Shadowsocks、Brook、Goflyway 等免费账号：[https://doub.io/sszhfx](https://doub.io/sszhfx/)
+
+### 禁止使用账号进行BT下载！BT下载会导致服务器被投诉！
+#### 2018年4月17日：有人使用服务器1进行BT下载，服务器已被删除！调整单个用户速度至150kb/s。
+<img src="https://raw.githubusercontent.com/Alvin9999/PAC/master/ss/ssr3389.PNG" width="100%" height="100%">
