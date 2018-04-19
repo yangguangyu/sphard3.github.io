@@ -5,7 +5,14 @@
 
 <a href="https://www.vultr.com/?ref=7295225"><img src="https://www.vultr.com/media/banner_1.png" width="100%" height="90"></a>
 
-注册并邮件激活账号，充值后即可购买服务器。充值方式是PayPal或支付宝
+注册并邮件激活账号，充值后即可购买服务器。充值方式: PayPal、支付宝、Bitcoin、信用卡、Gift Code 等5种付款方式
+<font style="color: red">
+[Vultr](https://www.vultr.com/?ref=7295225)最近出了一个充值5美元送25美元的活动，[点击活动地址：https://www.vultr.com/promo25b](https://www.vultr.com/promo25b/?ref=7295225) 本次活动仅限新注册用户，老用户不行，充值方式是 PayPal 或 信用卡，支付宝支付不能参与本次活动，而且PayPal和信用卡在[Vultr](https://www.vultr.com/?ref=7295225)上从未支付过。
+</font>
+<font style="color: red">
+活动没有具体截至时间，随时都可能截至，送的25美元有效期为1年，因为[Vultr](https://www.vultr.com/?ref=7295225)很少有1年有效期的送金活动，所以说这是一个很好的机会。如果你打开活动地址，出现以下图片，表明活动仍在继续中。如果你满足条件，但充值后账号未收到额外的25美元，你可以发工单（ticket）和客服进行沟通。
+</font>
+![vultr](https://i.imgur.com/coyVUvd.png)
 
 [Vultr](https://www.vultr.com/?ref=7295225)实际上是折算成小时来计费的，比如服务器是5美元1个月，那么每小时收费为5/30/24=0.0069美元 会自动从账号中扣费，只要保证账号有钱即可。如果你部署的服务器实测后速度不理想，你可以把它删掉（destroy），重新换个地区的服务器来部署，因为新的服务器就是新的ip，所以当ip被墙时这个方法很有用。
 
