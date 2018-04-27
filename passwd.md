@@ -1,4 +1,8 @@
 # 修改Vultr服务器密码
+<iframe width="100%" height="315" src="https://www.youtube.com/embed/3L13p0Qy6vo" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+如果你没有办法点开上面的YouTube视频，可以点下面的哔哩哔哩视频链接<br>
+`B站视频正在审核中。。。。。。`
+
 详解怎么修改[Vultr](https://www.vultr.com/?ref=7295225)服务器 root 用户密码
 
 先通过命令行连接上服务器，然后使用命令：`passwd root`<br>

@@ -1,4 +1,8 @@
 # 连接服务器常见问题
+<iframe width="100%" height="315" src="https://www.youtube.com/embed/mm08uNWo7qA" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+如果你没有办法点开上面的YouTube视频，可以点下面的哔哩哔哩视频链接<br>
+`B站视频正在审核中。。。。。。`
+
 ![vps](https://i.imgur.com/RLJX1HE.png)
 
 ### 遇到上图问题的解决办法是：<br>
