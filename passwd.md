@@ -1,7 +1,7 @@
 # 修改Vultr服务器密码
 <iframe width="100%" height="315" src="https://www.youtube.com/embed/3L13p0Qy6vo" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 如果你没有办法点开上面的YouTube视频，可以点下面的哔哩哔哩视频链接<br>
-`B站视频正在审核中。。。。。。`
+https://www.bilibili.com/video/av22685041
 
 详解怎么修改[Vultr](https://www.vultr.com/?ref=7295225)服务器 root 用户密码
 
