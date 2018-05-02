@@ -1,5 +1,4 @@
 # 搭建Outline翻墙
-<a href="https://www.vultr.com/?ref=7295225"><img src="https://www.vultr.com/media/banner_1.png" width="100%" height="90"></a>
 <iframe width="100%" height="315" src="https://www.youtube.com/embed/HYp759SJIKI" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 如果你没有办法点开上面的YouTube视频，可以点下面的哔哩哔哩视频链接<br>
 https://www.bilibili.com/video/av22229396/
@@ -25,3 +24,4 @@ wget -qO- https://raw.githubusercontent.com/Jigsaw-Code/outline-server/master/sr
 
 然后在想要使用的平台上下载相应的客户端
 ![](https://user-images.githubusercontent.com/34980980/38570513-9b6ec7fa-3d20-11e8-9018-dfea764e36a9.png)
+<a href="https://www.vultr.com/?ref=7295225"><img src="https://www.vultr.com/media/banner_1.png" width="100%" height="90"></a>
