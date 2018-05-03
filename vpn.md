@@ -1,7 +1,5 @@
 # 自建VPN翻墙
-<a href="https://www.vultr.com/?ref=7295225"><img src="https://www.vultr.com/media/banner_1.png" width="100%" height="90"></a>
-<iframe width="100%" height="315" src="https://www.youtube.com/embed/PdAYlMIyICk" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
-<br>
+<iframe width="100%" height="415" src="https://www.youtube.com/embed/PdAYlMIyICk" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 如果你没有办法点开上面的YouTube视频，可以点下面的哔哩哔哩视频链接
 https://www.bilibili.com/video/av18733432/
 
@@ -67,3 +65,4 @@ iptables -t nat -A POSTROUTING -s 192.168.0.0/24 -o eth0 -j MASQUERADE
 ```
 /etc/init.d/pptpd restart
 ```
+<a href="https://www.vultr.com/?ref=7295225"><img src="https://www.vultr.com/media/banner_1.png" width="100%" height="90"></a>

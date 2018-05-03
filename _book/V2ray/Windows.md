@@ -1,6 +1,5 @@
 # Windows下使用V2Ray
-<a href="https://www.vultr.com/?ref=7295225"><img src="https://www.vultr.com/media/banner_1.png" width="100%" height="90"></a>
-<iframe width="100%" height="315" src="https://www.youtube.com/embed/iMIjIu33KK8" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+<iframe width="100%" height="415" src="https://www.youtube.com/embed/iMIjIu33KK8" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 如果你没有办法点开上面的YouTube视频，可以点下面的哔哩哔哩视频链接<br>
 https://www.bilibili.com/video/av21240441
 
@@ -15,3 +14,4 @@ V2Ray官网：[https://www.v2ray.com](https://www.v2ray.com)
 
 ## Windows 和 Mac OS 安装方式
 通过上述方式下载的压缩包，解压之后可看到 v2ray 或 v2ray.exe。直接运行即可。
+<a href="https://www.vultr.com/?ref=7295225"><img src="https://www.vultr.com/media/banner_1.png" width="100%" height="90"></a>

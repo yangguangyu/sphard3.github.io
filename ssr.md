@@ -1,6 +1,5 @@
 # 自建 ssr 翻墙
-<a href="https://www.vultr.com/?ref=7295225"><img src="https://www.vultr.com/media/banner_1.png" width="100%" height="90"></a>
-<iframe width="100%" height="315" src="https://www.youtube.com/embed/_6lRX9S4knI" frameborder="0" gesture="media" allow="encrypted-media" allowfullscreen></iframe>
+<iframe width="100%" height="415" src="https://www.youtube.com/embed/_6lRX9S4knI" frameborder="0" gesture="media" allow="encrypted-media" allowfullscreen></iframe>
 <br>
 如果你没有办法点开上面的YouTube视频，可以点下面的哔哩哔哩视频链接
 http://www.bilibili.com/video/av17968174/
@@ -75,3 +74,4 @@ Linux SSR客户端  [点击下载地址](https://github.com/erguotou520/electron
 在对应的位置，填上服务器IP、服务器端口、密码、加密方式、协议和混淆，最后点击确认
 
 **现在你就可以愉快地科学上网了**
+<a href="https://www.vultr.com/?ref=7295225"><img src="https://www.vultr.com/media/banner_1.png" width="100%" height="90"></a>

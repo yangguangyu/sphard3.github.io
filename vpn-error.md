@@ -1,7 +1,5 @@
 # 连不上VPN?
-<a href="https://www.vultr.com/?ref=7295225"><img src="https://www.vultr.com/media/banner_1.png" width="100%" height="90"></a>
-<iframe width="100%" height="315" src="https://www.youtube.com/embed/sh1-HuPT8tc" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
-<br>
+<iframe width="100%" height="415" src="https://www.youtube.com/embed/sh1-HuPT8tc" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 如果你没有办法点开上面的YouTube视频，可以点下面的哔哩哔哩视频链接
 https://www.bilibili.com/video/av19161354/
 
@@ -24,3 +22,4 @@ Google DNS地址：https://developers.google.com/speed/public-dns/
 ![6](https://i.imgur.com/Kdlg4M2.png)
 
 如果你的VPN确实是正确搭建好了，那么现在你就应该可以愉快地连上VPN了。
+<a href="https://www.vultr.com/?ref=7295225"><img src="https://www.vultr.com/media/banner_1.png" width="100%" height="90"></a>

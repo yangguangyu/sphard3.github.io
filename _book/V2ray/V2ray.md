@@ -1,6 +1,5 @@
 # 搭建V2Ray翻墙
-<a href="https://www.vultr.com/?ref=7295225"><img src="https://www.vultr.com/media/banner_1.png" width="100%" height="90"></a>
-<iframe width="100%" height="315" src="https://www.youtube.com/embed/GV4VhUOc7hg" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+<iframe width="100%" height="415" src="https://www.youtube.com/embed/GV4VhUOc7hg" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 如果你没有办法点开上面的YouTube视频，可以点下面的哔哩哔哩视频链接<br>
 https://www.bilibili.com/video/av21240412
 
@@ -129,3 +128,4 @@ bash <(curl -L -s https://install.direct/go.sh)
 }
 ```
 上述配置唯一要改的地方就是你的服务器 IP，配置中已注明。上述配置会把除了局域网（比如访问路由器）之外的所有流量转发到你的服务器。
+<a href="https://www.vultr.com/?ref=7295225"><img src="https://www.vultr.com/media/banner_1.png" width="100%" height="90"></a>

@@ -1,5 +1,5 @@
 # 修改Vultr服务器密码
-<iframe width="100%" height="315" src="https://www.youtube.com/embed/3L13p0Qy6vo" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+<iframe width="100%" height="415" src="https://www.youtube.com/embed/3L13p0Qy6vo" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 如果你没有办法点开上面的YouTube视频，可以点下面的哔哩哔哩视频链接<br>
 https://www.bilibili.com/video/av22685041
 

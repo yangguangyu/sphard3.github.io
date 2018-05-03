@@ -1,5 +1,5 @@
 # 搭建Outline翻墙
-<iframe width="100%" height="315" src="https://www.youtube.com/embed/HYp759SJIKI" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+<iframe width="100%" height="415" src="https://www.youtube.com/embed/HYp759SJIKI" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 如果你没有办法点开上面的YouTube视频，可以点下面的哔哩哔哩视频链接<br>
 https://www.bilibili.com/video/av22229396/
 

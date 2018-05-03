@@ -22,3 +22,4 @@ SS的作者多次强调过这一点--->[Correct username/password auth model · 
 
 
 感谢参考：[逗比根据地-->关于Shadowsocks的小白常见问题 总结篇](https://doub.io/ss-jc35/)
+<a href="https://www.vultr.com/?ref=7295225"><img src="https://www.vultr.com/media/banner_1.png" width="100%" height="90"></a>

@@ -1,5 +1,4 @@
 # 连接服务器
-<a href="https://www.vultr.com/?ref=7295225"><img src="https://www.vultr.com/media/banner_1.png" width="100%" height="90"></a>
 如果你本地电脑使用的是 Windows 系统，那我推荐你下载一个叫 Git Bash 的软件来远程连接服务器<br>
 官方免费下载地址：https://git-scm.com/downloads
 ![git bash](https://i.imgur.com/TM8SCDQ.png)
@@ -19,3 +18,4 @@
 出现下面这张图，就说明你已经成功登陆你的服务器了！
 <br>
 ![ssh2](https://i.imgur.com/0MZFmji.png)
+<a href="https://www.vultr.com/?ref=7295225"><img src="https://www.vultr.com/media/banner_1.png" width="100%" height="90"></a>
