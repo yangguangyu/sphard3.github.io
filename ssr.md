@@ -1,8 +1,7 @@
 # 自建 ssr 翻墙
 <iframe width="100%" height="415" src="https://www.youtube.com/embed/_6lRX9S4knI" frameborder="0" gesture="media" allow="encrypted-media" allowfullscreen></iframe>
-<br>
-如果你没有办法点开上面的YouTube视频，可以点下面的哔哩哔哩视频链接
-http://www.bilibili.com/video/av17968174/
+如果你没有办法点开上面的YouTube视频，可以点下面的BiliBili视频
+<iframe src="//player.bilibili.com/player.html?aid=17968174&cid=29333431&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true" width="100%" height="500"> </iframe>
 # 安装 ssr 软件
 ```
 wget -N --no-check-certificate https://softs.fun/Bash/ssr.sh && chmod +x ssr.sh && bash ssr.sh

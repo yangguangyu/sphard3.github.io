@@ -1,7 +1,7 @@
 # 自建VPN翻墙
 <iframe width="100%" height="415" src="https://www.youtube.com/embed/PdAYlMIyICk" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
-如果你没有办法点开上面的YouTube视频，可以点下面的哔哩哔哩视频链接
-https://www.bilibili.com/video/av18733432/
+如果你没有办法点开上面的YouTube视频，可以点下面的BiliBili视频
+<iframe src="//player.bilibili.com/player.html?aid=18733432&cid=30554959&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true" width="100%" height="500"> </iframe>
 
 本教程是以 Ubuntu server 为例子，如果你用的是其他系统，请使用对应的安装软件的命令<br>
 如果你使用的不是 root 账号，那么在安装软件的时候可能会出现权限不够，可以通过 sudo 来增加权限解决问题

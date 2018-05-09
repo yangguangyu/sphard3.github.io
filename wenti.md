@@ -1,7 +1,7 @@
 # 连接服务器常见问题
-<iframe width="100%" height="315" src="https://www.youtube.com/embed/mm08uNWo7qA" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
-如果你没有办法点开上面的YouTube视频，可以点下面的哔哩哔哩视频链接<br>
-https://www.bilibili.com/video/av22658273
+<iframe width="100%" height="415" src="https://www.youtube.com/embed/mm08uNWo7qA" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+如果你没有办法点开上面的YouTube视频，可以点下面的BiliBili视频
+<iframe src="//player.bilibili.com/player.html?aid=22658273&cid=37598060&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true" width="100%" height="500"> </iframe>
 
 ![vps](https://i.imgur.com/RLJX1HE.png)
 
