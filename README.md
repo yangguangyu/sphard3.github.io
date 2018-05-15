@@ -9,6 +9,8 @@
 
 每次更新记录: [https://github.com/darrenliuwei/fuck-gfw/commits/master](https://github.com/darrenliuwei/fuck-gfw/commits/master)
 
+提问与交流: [https://github.com/darrenliuwei/fuck-gfw/issues](https://github.com/darrenliuwei/fuck-gfw/issues)
+
 阅读过程中若遇到语法错误、拼写错误、技术错误等等，不妨来个[Pull Request](https://github.com/darrenliuwei/fuck-gfw)或者[Issues](https://github.com/darrenliuwei/fuck-gfw/issues)，这样可以帮助到其他阅读这本电子书的同学
 
 #### 如果您感觉有收获，欢迎给我打赏 ———— 以激励我输出更多优质内容
