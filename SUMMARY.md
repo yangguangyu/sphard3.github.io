@@ -20,7 +20,7 @@
   - [Windows下使用V2ray](V2ray/Windows.md)
   - [Android下使用V2ray](V2ray/Android.md)
 * [搭建Outline翻墙](Outline/Outline.md)
-* [各种翻墙对比](vs.md)
+* [Shadowsocks相关知识](Shadowsocks.md)
 * [结语](end.md)
 * [感谢](https://darrenliuwei.com/thanks)
 * [帮助](https://github.com/darrenliuwei/fuck-gfw/issues)

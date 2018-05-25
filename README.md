@@ -1,7 +1,7 @@
 # 《科学上网翻墙教程》
 刘伟官网: [https://darrenliuwei.com](https://darrenliuwei.com)
 ### 简介
-这是一本介绍怎样科学上网的开源电子书
+这是一本介绍怎样科学上网的开源免费电子书
 
 在线阅读地址: [https://darrenliuwei.com/fuck-gfw](https://darrenliuwei.com/fuck-gfw)
 
