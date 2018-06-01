@@ -1,4 +1,4 @@
-# 自建 ssr 翻墙
+# 搭建 ShadowsocksR 翻墙 ssr
 <iframe width="100%" height="415" src="https://www.youtube.com/embed/_6lRX9S4knI" frameborder="0" gesture="media" allow="encrypted-media" allowfullscreen></iframe>
 如果你没有办法点开上面的YouTube视频，可以点下面的BiliBili视频
 <iframe src="//player.bilibili.com/player.html?aid=17968174&cid=29333431&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true" width="100%" height="500"> </iframe>

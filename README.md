@@ -3,7 +3,9 @@
 ### 简介
 这是一本介绍怎样科学上网的开源免费电子书
 
-在线阅读地址: [https://darrenliuwei.com/fuck-gfw](https://darrenliuwei.com/fuck-gfw)
+阅读地址: [https://darrenliuwei.coding.me/fuck-gfw](https://darrenliuwei.coding.me/fuck-gfw)
+
+备用阅读地址: [https://darrenliuwei.github.io/fuck-gfw](https://darrenliuwei.github.io/fuck-gfw)
 
 本书源码地址: [https://github.com/darrenliuwei/fuck-gfw](https://github.com/darrenliuwei/fuck-gfw)
 
