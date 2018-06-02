@@ -1,4 +1,5 @@
 # Windows 上使用 Shadowsocks 科学上网 ss
+<iframe width="100%" height="415" src="https://www.youtube.com/embed/WpkPR-wP4x0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 Shadowsocks官网: [https://shadowsocks.org](https://shadowsocks.org)
 
 Shadowsocks官方GitHub: [https://github.com/shadowsocks](https://github.com/shadowsocks)

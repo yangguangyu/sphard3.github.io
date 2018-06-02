@@ -9,6 +9,6 @@
 8. 每两小时更新一次，每次分享两个节点，需回复可见: [https://ssr.plus/46.html](https://ssr.plus/46.html)
 
 #### 禁止使用账号进行BT下载！BT下载会导致服务器被投诉！
-#### 2018年5月24日更新。更新服务器2的端口和协议。
-<img src="https://raw.githubusercontent.com/Alvin9999/PAC/master/ss/ssr3504.PNG" width="100%" height="100%">
+#### 2018年6月2日更新
+<img src="https://raw.githubusercontent.com/Alvin9999/PAC/master/ss/ssr3506.PNG" width="100%" height="100%">
 <a href="https://www.vultr.com/?ref=7295225"><img src="https://www.vultr.com/media/banner_1.png" width="100%" height="90"></a>

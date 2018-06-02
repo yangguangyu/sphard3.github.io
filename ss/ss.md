@@ -1,4 +1,6 @@
 # 搭建 Shadowsocks 科学上网 ss
+<iframe width="100%" height="415" src="https://www.youtube.com/embed/LdrYnNCP-9w" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+<iframe  width="100%" height="500" src="//player.bilibili.com/player.html?aid=24249871&cid=40661718&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>
 Shadowsocks官网: [https://shadowsocks.org](https://shadowsocks.org)
 
 Shadowsocks官方GitHub: [https://github.com/shadowsocks](https://github.com/shadowsocks)
