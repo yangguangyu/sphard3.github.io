@@ -1,6 +1,5 @@
 # 搭建V2Ray翻墙
 <iframe width="100%" height="415" src="https://www.youtube.com/embed/GV4VhUOc7hg" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
-如果你没有办法点开上面的YouTube视频，可以点下面的BiliBili视频
 <iframe src="//player.bilibili.com/player.html?aid=21240412&cid=34891307&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true" width="100%" height="500"> </iframe>
 V2Ray官网：[https://www.v2ray.com](https://www.v2ray.com)
 

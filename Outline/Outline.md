@@ -1,6 +1,5 @@
 # 搭建Outline翻墙
 <iframe width="100%" height="415" src="https://www.youtube.com/embed/HYp759SJIKI" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
-如果你没有办法点开上面的YouTube视频，可以点下面的BiliBili视频
 <iframe src="//player.bilibili.com/player.html?aid=22229396&cid=36782522&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true" width="100%" height="500"> </iframe>
 
 [Outline](https://getoutline.org/en/home)官网：[https://getoutline.org/en/home](https://getoutline.org/en/home)

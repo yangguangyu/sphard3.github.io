@@ -1,6 +1,5 @@
 # 连不上VPN?
 <iframe width="100%" height="415" src="https://www.youtube.com/embed/sh1-HuPT8tc" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
-如果你没有办法点开上面的YouTube视频，可以点下面的BiliBili视频
 <iframe src="//player.bilibili.com/player.html?aid=19161354&cid=31254751&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true" width="100%" height="500"> </iframe>
 
 不好意思，视频里的 8.4.4.4 是错误的<br>
