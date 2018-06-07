@@ -1,4 +1,5 @@
 # Android 上使用 Shadowsocks 科学上网 ss
+<iframe width="100%" height="415" src="https://www.youtube.com/embed/fE8sfz6v94Y" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 <iframe width="100%" height="500" src="//player.bilibili.com/player.html?aid=24347254&cid=40855267&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>
 Shadowsocks官网: [https://shadowsocks.org](https://shadowsocks.org)
 

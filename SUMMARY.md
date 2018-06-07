@@ -30,6 +30,7 @@
   - [Windows下使用V2ray](V2ray/Windows.md)
   - [Android下使用V2ray](V2ray/Android.md)
 * [搭建 Outline 翻墙](Outline/Outline.md)
+* [路由器翻墙](luyouqi.md)
 * [Shadowsocks相关知识](Shadowsocks.md)
 * [hosts&DNS工作原理](hosts-dns.md)
 * [结语](end.md)
