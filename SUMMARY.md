@@ -21,7 +21,6 @@
 * [搭建 ssr 翻墙](ssr.md)
 * [搭建 Brook 翻墙](brook/brook.md)
   - [Windows上使用Brook](brook/windows.md)
-  - [Linux上使用Brook](brook/linux.md)
   - [Android上使用Brook](brook/android.md)
 * [搭建 VPN 翻墙](vpn.md)
   - [连不上VPN?](vpn-error.md)
