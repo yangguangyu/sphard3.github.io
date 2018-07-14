@@ -8,7 +8,6 @@
 7. 逗比根据地分享 Shadowsocks、Brook、Goflyway 等免费账号：[https://doub.io/sszhfx](https://doub.io/sszhfx)
 8. 每两小时更新一次，每次分享两个节点，需回复可见: [https://ssr.plus/46.html](https://ssr.plus/46.html)
 
-#### 禁止使用账号进行BT下载！BT下载会导致服务器被投诉！
-#### 2018.6.30：更新服务器1
-<img src="https://gitlab.com/Alvin9999/PAC/raw/master/ss/ssr3510.PNG" width="100%" height="100%">
+#### 2018年7月14日：更新服务器1和2的端口
+<img src="https://gitlab.com/Alvin9999/PAC/raw/master/ss/ssr3512.PNG" width="100%" height="100%">
 <a href="https://www.vultr.com/?ref=7295225"><img src="https://www.vultr.com/media/banner_1.png" width="100%" height="90"></a>
