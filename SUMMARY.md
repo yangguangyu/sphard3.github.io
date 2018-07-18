@@ -33,5 +33,5 @@
 * [Shadowsocks相关知识](Shadowsocks.md)
 * [hosts&DNS工作原理](hosts-dns.md)
 * [结语](end.md)
-* [感谢](https://darrenliuwei.com/thanks)
-* [帮助](https://github.com/darrenliuwei/fuck-gfw/issues)
+* [感谢](https://sphard.com/thanks)
+* [帮助](https://github.com/sphard/fuck-gfw/issues)

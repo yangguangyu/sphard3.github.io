@@ -10,5 +10,5 @@
 你希望网络自由吗？<br>
 你身边翻墙的人多吗？<br>
 ... ... ...
-<font color="red">快来这里说说你对科学上网的看法吧！或者你有点好奇别人的看法---></font>[点击这里](https://github.com/darrenliuwei/fuck-gfw/issues/1)
+<font color="red">快来这里说说你对科学上网的看法吧！或者你有点好奇别人的看法---></font>[点击这里](https://github.com/sphard/fuck-gfw/issues/1)
 <a href="https://www.vultr.com/?ref=7295225"><img src="https://www.vultr.com/media/banner_1.png" width="100%" height="90"></a>

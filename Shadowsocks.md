@@ -7,7 +7,7 @@ Shadowsocks官方GitHub: [https://github.com/shadowsocks](https://github.com/sha
 
 ### Shadowsocks作者是谁？是否还在更新？
 Shadowsocks是由若干人因为兴趣而制作的一个项目，主要开发者和领导者是[@clowwindy](https://twitter.com/clowwindy) ，但是在2015年下半年被“相关部门”约谈喝茶，于是被迫删除[Github](https://github.com)的源码及相关文档。
-![Shadowsocks](https://img.doub.pw/ss-jc35-1-01.png)
+<img src="https://i.imgur.com/73VW7Jr.png" width="100%">
 
 但Shadowsocks属于开源项目，所以删除前已经有人备份，同时由另一个志愿者跟进维护原版[Shadowsocks](https://github.com/shadowsocks/shadowsocks-windows/releases)客户端，而其他基于Shadowsocks项目的第三方项目有：[ShadowsocksR](https://github.com/shadowsocksr-backup/shadowsocksr)、[Shadowsocks-qt5](https://github.com/shadowsocks/shadowsocks-qt5)、[ShadowsocksCap](https://sourceforge.net/projects/sscap/)等来维护更新Window/Linux客户端（其他系统的不一一举例了）。
 

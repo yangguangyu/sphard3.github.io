@@ -1,7 +1,7 @@
 {
     "title": "Fuck GFW",
     "description": "科学上网教程",
-    "author": "darrenliuwei",
+    "author": "sphard",
     "language": "zh-hans",
     "root": ".",
 
@@ -21,14 +21,14 @@
             "wechatText": "微信打赏"
         },
         "github-buttons": {
-            "repo": "darrenliuwei/fuck-gfw",
+            "repo": "sphard/fuck-gfw",
             "types": [
                 "star"
             ],
             "size": "small"
         },
         "edit-link": {
-            "base": "https://github.com/darrenliuwei/fuck-gfw/edit/master",
+            "base": "https://github.com/sphard/fuck-gfw/edit/master",
             "label": "Edit This Page"
         }
     }
