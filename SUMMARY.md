@@ -3,7 +3,6 @@
 * [简介](README.md)
 * [什么是GFW](gfw1.md)
 * [为什么要翻墙](gfw2.md)
-* [网友对翻墙总结](wangyou.md)
 * [免费翻墙](free/free.md)
   - [免费VPN](free/vpn.md)
   - [免费ss/ssr](free/ssr.md)
@@ -34,4 +33,3 @@
 * [hosts&DNS工作原理](hosts-dns.md)
 * [结语](end.md)
 * [感谢](https://sphard.com/thanks)
-* [帮助](https://github.com/sphard/fuck-gfw/issues)

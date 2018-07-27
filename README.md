@@ -3,13 +3,9 @@
 
 SPhard: [https://sphard.com](https://sphard.com)
 ### 简介
-这是一本介绍怎样科学上网的开源免费电子书
+这是一本介绍怎样科学上网的免费电子书
 
-阅读地址: [https://darrenliuwei.coding.me/fuck-gfw](https://darrenliuwei.coding.me/fuck-gfw)
-
-备用阅读地址: [https://sphard.github.io/fuck-gfw/](https://sphard.github.io/fuck-gfw/)
-
-阅读过程中若遇到语法错误、拼写错误、技术错误等等，不妨来个[Pull Request](https://github.com/sphard/fuck-gfw/pulls)或者[Issues](https://github.com/sphard/fuck-gfw/issues)，这样可以帮助到其他阅读这本电子书的同学
+阅读地址: [https://sphard.github.io/gfw](https://sphard.github.io/gfw)
 
 #### 如果您感觉有收获，欢迎给我打赏 ———— 以激励我输出更多优质内容
 #### PayPal 打赏支持我: [paypal.me/Liu456](https://paypal.me/Liu456)
