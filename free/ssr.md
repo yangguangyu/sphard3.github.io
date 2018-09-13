@@ -9,8 +9,8 @@
 8. 每两小时更新一次，每次分享两个节点，需回复可见: [https://ssr.plus/46.html](https://ssr.plus/46.html)
 9. 锤墙(每次注册账号都可以获得5GB流量，1天有效期): [https://ssr365.top](https://ssr365.top)
 
-#### 2018年8月8日：更新服务器1和2的端口
-<img src="https://raw.githubusercontent.com/Alvin9999/PAC/master/ss/ssr3514.PNG" width="100%" height="100%">
+#### 2018年9月11日：更新服务器1和2的端口
+<img src="https://raw.githubusercontent.com/Alvin9999/PAC/master/ssr3516.PNG" width="100%" height="100%">
 
 ### 2018年8月8日更新
 ```
