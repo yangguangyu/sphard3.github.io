@@ -9,14 +9,14 @@ V2Ray官网：[https://www.v2ray.com](https://www.v2ray.com)
 对于 V2Ray，它的验证方式包含时间，就算是配置没有任何问题，如果时间不正确，也无法连接 V2Ray 服务器的，服务器会认为你这是不合法的请求。所以系统时间一定要正确，只要保证时间误差在一分钟之内就没问题。
 
 对于 VPS(Linux) 可以执行命令 date -R 查看时间：
-```
+```bash
 $ date -R
 Sun, 22 Jan 2017 10:10:36 -0500
 ```
 
 ## 修改上海时区
 这里以修改上海时间作为默认时区，如果有其他需要的，可以对应修改
-```
+```bash
 rm -rf /etc/localtime #先删除默认的时区设置
 ln -s /usr/share/zoneinfo/Asia/Shanghai /etc/localtime #替换上海作为默认
 ```
@@ -27,7 +27,7 @@ V2Ray 提供了一个在 Linux 中的自动化安装脚本。这个脚本会自�
 以下指令假设已在 su 环境下，如果不是，请先运行 sudo su。
 
 运行下面的指令下载并安装 V2Ray。当 yum 或 apt-get 可用的情况下，此脚本会自动安装 unzip 和 daemon。这两个组件是安装 V2Ray 的必要组件。如果你使用的系统不支持 yum 或 apt-get，请自行安装 unzip 和 daemon
-```
+```bash
 bash <(curl -L -s https://install.direct/go.sh)
 ```
 
@@ -52,7 +52,7 @@ bash <(curl -L -s https://install.direct/go.sh)
 3. 之后可以使用 service v2ray start|stop|status|reload|restart|force-reload 控制 V2Ray 的运行。
 
 ## 服务器端配置
-```
+```bash
 {
   "inbound": {
     "port": 10086, // 服务器监听端口，必须和上面的一样
@@ -71,7 +71,7 @@ bash <(curl -L -s https://install.direct/go.sh)
 
 ## 客户端配置
 在你的 PC （或手机）中，你需要运行 V2Ray 并使用下面的配置：
-```
+```bash
 {
   "inbound": {
     "port": 1080,  // SOCKS 代理端口，在浏览器中需配置代理并指向这个端口

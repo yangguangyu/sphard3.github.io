@@ -1,8 +1,9 @@
 # 搭建 ShadowsocksR 科学上网 ssr
 <iframe width="100%" height="415" src="https://www.youtube.com/embed/_6lRX9S4knI" frameborder="0" gesture="media" allow="encrypted-media" allowfullscreen></iframe>
 <iframe width="100%" height="415" src="//player.bilibili.com/player.html?aid=17968174&cid=29333431&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"></iframe>
+
 # 安装 ssr 软件
-```
+```bash
 wget -N --no-check-certificate https://raw.githubusercontent.com/ToyoDAdoubi/doubi/master/ssr.sh && chmod +x ssr.sh && bash ssr.sh
 ```
 ![ssh3](https://i.imgur.com/y4cj0rr.png)
@@ -42,11 +43,9 @@ wget -N --no-check-certificate https://raw.githubusercontent.com/ToyoDAdoubi/dou
 根据上图就可以看到自己设置的ssr账号信息，包括IP、端口、密码、加密方式、协议插件、混淆插件等等，如果之后想修改账号信息，选择相应的数字来进行一键修改
 
 # 加速服务器 (谷歌BBR加速)
-```
+```bash
 wget --no-check-certificate https://github.com/teddysun/across/raw/master/bbr.sh
-
 chmod +x bbr.sh
-
 ./bbr.sh
 ```
 执行上面的代码，然后耐心等待，安装成功后重启VPS服务器即可

@@ -11,7 +11,7 @@
 [Jigsaw](https://jigsaw.google.com)前身为Google Ideas，是Google旗下的技术孵化器公司，目标是以技术来克服全球的网络安全难题，包括地址网络审查制度、降低网络攻击的威胁，以及防止大众收到网络骚扰等。[Outline](https://getoutline.org/en/home)即为[Jigsaw](https://jigsaw.google.com)的成果之一。
 
 服务器上使用的代码：
-```
+```bash
 curl -sS https://get.docker.com/ | sh
 systemctl start docker
 systemctl enable docker

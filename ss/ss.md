@@ -16,13 +16,13 @@ Shadowsocks官方GitHub: [https://github.com/shadowsocks](https://github.com/sha
 
 ### 安装ss
 1. 使用 root 用户登录服务器, 运行以下命令
-```
+```bash
 wget --no-check-certificate -O shadowsocks.sh https://raw.githubusercontent.com/teddysun/shadowsocks_install/master/shadowsocks.sh
 ```
-```
+```bash
 chmod +x shadowsocks.sh
 ```
-```
+```bash
 ./shadowsocks.sh 2>&1 | tee shadowsocks.log
 ```
 
@@ -31,7 +31,7 @@ chmod +x shadowsocks.sh
 
 ### 卸载ss
 使用 root 用户登录服务器, 运行以下命令
-```
+```bash
 ./shadowsocks.sh uninstall
 ```
 
@@ -43,7 +43,7 @@ chmod +x shadowsocks.sh
 
 ### 查看ss配置信息
 使用 root 用户登录服务器, 运行以下命令
-```
+```bash
 cat /etc/shadowsocks.json
 ```
 
