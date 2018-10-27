@@ -19,6 +19,8 @@
 
 10. 免费SSR帐号分享: [http://www.52ssr.net](http://www.52ssr.net)
 
+11. 免费SS账号分享: [https://free.gyteng.com](https://free.gyteng.com)
+
 #### 2018年10月27日：更新账号端口
 <img src="https://raw.githubusercontent.com/Alvin9999/PAC/master/ss/ssr3525.PNG" width="100%" height="100%">
 
