@@ -1,6 +1,6 @@
 # Windows下使用V2Ray
 <iframe width="100%" height="415" src="https://www.youtube.com/embed/iMIjIu33KK8" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
-<iframe src="//player.bilibili.com/player.html?aid=21240441&cid=34891448&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true" width="100%" height="500"> </iframe>
+<iframe width="100%" height="415" src="//player.bilibili.com/player.html?aid=35182692&cid=61644131&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>
 
 V2Ray官网：[https://www.v2ray.com](https://www.v2ray.com)
 
