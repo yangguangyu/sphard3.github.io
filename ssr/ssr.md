@@ -1,6 +1,6 @@
 # 搭建 ShadowsocksR 科学上网 ssr
 <iframe width="100%" height="415" src="https://www.youtube.com/embed/_6lRX9S4knI" frameborder="0" gesture="media" allow="encrypted-media" allowfullscreen></iframe>
-<iframe width="100%" height="415" src="//player.bilibili.com/player.html?aid=17968174&cid=29333431&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"></iframe>
+<iframe width="100%" height="415" src="//player.bilibili.com/player.html?aid=35215240&cid=61701707&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>
 
 # 安装 ssr 软件
 ```bash
