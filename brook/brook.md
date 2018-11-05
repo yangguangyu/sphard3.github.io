@@ -9,11 +9,6 @@ Brook 服务器安装教程(需翻墙): [https://doub.io/brook-jc3](https://doub
 ### 安装 Brook
 执行下面的代码下载并运行脚本
 ```bash
-wget -N --no-check-certificate https://softs.loan/Bash/brook.sh && chmod +x brook.sh && bash brook.sh
-```
-
-如果上面这个脚本无法下载，尝试使用备用下载
-```bash
 wget -N --no-check-certificate https://raw.githubusercontent.com/ToyoDAdoubi/doubi/master/brook.sh && chmod +x brook.sh && bash brook.sh
 ```
 
