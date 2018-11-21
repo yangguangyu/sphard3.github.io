@@ -21,6 +21,10 @@
 
 11. 免费SS账号分享: [https://free.gyteng.com](https://free.gyteng.com)
 
+12. FreeSS - Free Network Assistant and Analysis Information: [https://ss.freess.today](https://ss.freess.today)
+
+13. freess每天自动更新SS账号: [https://io.freess.org](https://io.freess.org)
+
 #### 2018年11月17日：更新服务器3和4
 <img src="https://raw.githubusercontent.com/Alvin9999/PAC/master/ss/ssr3529.PNG" width="100%" height="100%">
 
