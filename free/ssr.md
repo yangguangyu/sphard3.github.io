@@ -1,29 +1,46 @@
-# 免费ss/ssr分享
+# 永久免费ss/ssr翻墙科学上网账号密码资源分享
 1. 免费ShadowSocks帐号:[https://free-ss.site](https://free-ss.site)
 
-2. 免费ShadowSocks帐号/ssr订阅: [http://ss.pythonic.life](http://ss.pythonic.life)
+2. 免费ss/ssr分享: [https://github.com/gfw-breaker/ssr-accounts](https://github.com/gfw-breaker/ssr-accounts)
 
-3. 免费ss/ssr分享: [https://github.com/gfw-breaker/ssr-accounts](https://github.com/gfw-breaker/ssr-accounts)
+3. 免费ss/ssr节点分享: [https://www.wuwweb.com](https://www.wuwweb.com)
 
-4. 免费ss/ssr节点分享: [https://www.wuwweb.com](https://www.wuwweb.com)
+4. 自由浏览2.0: [https://freebrowser.org](https://freebrowser.org)
 
-5. 免费翻墙网, 免费ss/ssr分享: [http://freefq.com/ss/](http://freefq.com/ss/)
+5. 免费SSR帐号分享: [http://www.52ssr.net](http://www.52ssr.net)
 
-6. 逗比根据地分享 Shadowsocks、Brook、Goflyway 等免费账号：[https://doub.io/sszhfx](https://doub.io/sszhfx)
+6. FreeSS - Free Network Assistant and Analysis Information: [https://ss.freess.today](https://ss.freess.today)
 
-7. 永久免费HKT节点，可看YouTube 8K、Netflix 4K、viu、NowTV、TVB和HBO HK（10.16）: [http://www.right.com.cn/forum/thread-318036-1-1.html](http://www.right.com.cn/forum/thread-318036-1-1.html)
+7. freess每天自动更新SS账号: [https://io.freess.org](https://io.freess.org)
 
-8. 自由浏览2.0: [https://freebrowser.org](https://freebrowser.org)
+#### 2019年1月5日：更新账号
+![free-ssr](https://i.imgur.com/RpLAEuC.png)
 
-9. SSR酸酸乳和V2Ray免费账号分享(ShadowsocksR): [https://fangeqiang.com/408.html](https://fangeqiang.com/408.html)
+| ShadowsocksR账号 | 配置信息 |
+| :--- | :--------- |
+| IP | 45.76.186.13 |
+| 端口 | 2222 |
+| 密码 |  www.sphard.com |
+| 加密 |  aes-256-cfb |
+| 协议 |  auth_sha1_v4 |
+| 混淆 |  plain |
+| 设备数限制 | 0(无限) |
+| 单线程限速 | 0 KB/S |
+| 端口总限速 | 0 KB/S |
 
-10. 免费SSR帐号分享: [http://www.52ssr.net](http://www.52ssr.net)
+SSR链接: ssr://NDUuNzYuMTg2LjEzOjIyMjI6YXV0aF9zaGExX3Y0OmFlcy0yNTYtY2ZiOnBsYWluOmQzZDNMbk53YUdGeVpDNWpiMjA
 
-11. 免费SS账号分享: [https://free.gyteng.com](https://free.gyteng.com)
+![free-ss](https://i.imgur.com/hbSouqc.png)
 
-12. FreeSS - Free Network Assistant and Analysis Information: [https://ss.freess.today](https://ss.freess.today)
-
-13. freess每天自动更新SS账号: [https://io.freess.org](https://io.freess.org)
+| Shadowsocks账号-新加坡 | 配置信息 |
+| :--- | :--------- |
+| IP | 45.76.186.13 |
+| 端口 | 2222 |
+| 密码 |  www.sphard.com |
+| 加密 |  aes-256-cfb |
+| 设备数限制 | 0(无限) |
+| 单线程限速 | 0 KB/S |
+| 端口总限速 | 0 KB/S |
 
 #### 2018年12月25日：更新账号端口。
 <img src="https://raw.githubusercontent.com/Alvin9999/PAC/master/ss/4014.PNG" width="100%" height="100%">
