@@ -67,4 +67,6 @@
 * 中文：网站无中文版，但软件有中文版
 * 下载：[Tor官网](https://www.torproject.org 'Tor官网')(需翻墙)，[GitHub地址](https://github.com/sphard/software/issues/4 'GitHub地址')(不需要翻墙)
 
+#### 如果以上有哪个免费资源用不了了，可以给我发邮件: darrenliuwei@gmail.com
+
 <a href="https://www.vultr.com/?ref=7295225"><img src="https://www.vultr.com/media/banner_1.png" width="100%" height="90"></a>

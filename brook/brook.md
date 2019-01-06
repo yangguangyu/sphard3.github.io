@@ -2,9 +2,8 @@
 <iframe width="100%" height="415" src="https://www.youtube.com/embed/4OQtOzA_Dr0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 <iframe width="100%" height="500" src="//player.bilibili.com/player.html?aid=24457027&cid=41068024&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>
 Brook 项目地址: [https://github.com/txthinking/brook](https://github.com/txthinking/brook)<br>
-Brook 服务器安装教程(需翻墙): [https://doub.io/brook-jc3](https://doub.io/brook-jc3)
 
-注意: 在搭建 Brook 时，一定要在未翻墙状态下先 [ping 一下服务器IP](https://sphard.github.io/gfw/ping-IP.html)地址
+注意: 在搭建 Brook 时，一定要在未翻墙状态下先 [ping 一下服务器IP](https://sphard2.github.io/gfw/ping-IP.html)地址
 
 ### 安装 Brook
 执行下面的代码下载并运行脚本
