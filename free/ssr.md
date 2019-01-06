@@ -13,10 +13,10 @@
 
 7. freess每天自动更新SS账号: [https://io.freess.org](https://io.freess.org)
 
-#### 2019年1月5日：更新账号
+#### 2019年1月6日：更新账号
 ![free-ssr](https://i.imgur.com/RpLAEuC.png)
 
-| ShadowsocksR账号 | 配置信息 |
+| ShadowsocksR账号-新加坡 | 配置信息 |
 | :--- | :--------- |
 | IP | 45.76.186.13 |
 | 端口 | 2222 |
@@ -30,12 +30,12 @@
 
 SSR链接: ssr://NDUuNzYuMTg2LjEzOjIyMjI6YXV0aF9zaGExX3Y0OmFlcy0yNTYtY2ZiOnBsYWluOmQzZDNMbk53YUdGeVpDNWpiMjA
 
-![free-ss](https://i.imgur.com/hbSouqc.png)
+![free-ss](https://i.imgur.com/b5uO3nb.png)
 
 | Shadowsocks账号-新加坡 | 配置信息 |
 | :--- | :--------- |
 | IP | 45.76.186.13 |
-| 端口 | 2222 |
+| 端口 | 3333 |
 | 密码 |  www.sphard.com |
 | 加密 |  aes-256-cfb |
 | 设备数限制 | 0(无限) |
@@ -47,5 +47,7 @@ SSR链接: ssr://NDUuNzYuMTg2LjEzOjIyMjI6YXV0aF9zaGExX3Y0OmFlcy0yNTYtY2ZiOnBsYWl
 
 <iframe width="100%" height="415" src="https://www.youtube.com/embed/aT1dO5oekso" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 <iframe width="100%" height="415" src="https://www.youtube.com/embed/uB9jkLncfbw" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+
+#### 如果以上有哪个免费资源用不了了，可以给我发邮件: darrenliuwei@gmail.com
 
 <a href="https://www.vultr.com/?ref=7295225"><img src="https://www.vultr.com/media/banner_1.png" width="100%" height="90"></a>
