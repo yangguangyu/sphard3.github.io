@@ -13,34 +13,51 @@
 
 7. freess每天自动更新SS账号: [https://io.freess.org](https://io.freess.org)
 
-#### 2019年1月6日：更新账号
-![free-ssr](https://i.imgur.com/RpLAEuC.png)
+#### 2019年1月7日更新: 新增日本节点的ss和ssr，修改新加坡节点端口号
+![free-ssr-日本](https://i.imgur.com/x3LdgrV.png)
 
-| ShadowsocksR账号-新加坡 | 配置信息 |
+| ShadowsocksR账号-日本 | 配置信息 |
 | :--- | :--------- |
-| IP | 45.76.186.13 |
-| 端口 | 2222 |
+| IP | 45.77.177.125 |
+| 端口 | 5555 |
 | 密码 |  www.sphard.com |
 | 加密 |  aes-256-cfb |
 | 协议 |  auth_sha1_v4 |
 | 混淆 |  plain |
-| 设备数限制 | 0(无限) |
-| 单线程限速 | 0 KB/S |
-| 端口总限速 | 0 KB/S |
+
+SSR链接: ssr://NDUuNzcuMTc3LjEyNTo1NTU1OmF1dGhfc2hhMV92NDphZXMtMjU2LWNmYjpwbGFpbjpkM2QzTG5Od2FHRnlaQzVqYjIw
+
+![free-ss-日本](https://i.imgur.com/dr5P0zL.png)
+
+| Shadowsocks账号-日本 | 配置信息 |
+| :--- | :--------- |
+| IP | 45.77.177.125 |
+| 端口 | 4444 |
+| 密码 |  www.sphard.com |
+| 加密 |  aes-256-cfb |
+
+
+![free-ssr-新加坡](https://i.imgur.com/RpLAEuC.png)
+
+| ShadowsocksR账号-新加坡 | 配置信息 |
+| :--- | :--------- |
+| IP | 45.76.186.13 |
+| 端口 | 1234 |
+| 密码 |  www.sphard.com |
+| 加密 |  aes-256-cfb |
+| 协议 |  auth_sha1_v4 |
+| 混淆 |  plain |
 
 SSR链接: ssr://NDUuNzYuMTg2LjEzOjIyMjI6YXV0aF9zaGExX3Y0OmFlcy0yNTYtY2ZiOnBsYWluOmQzZDNMbk53YUdGeVpDNWpiMjA
 
-![free-ss](https://i.imgur.com/b5uO3nb.png)
+![free-ss-新加坡](https://i.imgur.com/b5uO3nb.png)
 
 | Shadowsocks账号-新加坡 | 配置信息 |
 | :--- | :--------- |
 | IP | 45.76.186.13 |
-| 端口 | 3333 |
+| 端口 | 4321 |
 | 密码 |  www.sphard.com |
 | 加密 |  aes-256-cfb |
-| 设备数限制 | 0(无限) |
-| 单线程限速 | 0 KB/S |
-| 端口总限速 | 0 KB/S |
 
 #### 2018年12月25日：更新账号端口。
 <img src="https://raw.githubusercontent.com/Alvin9999/PAC/master/ss/4014.PNG" width="100%" height="100%">

@@ -6,7 +6,7 @@
 
 | VPN新加坡节点 | 账号信息 |
 | :--- | :--------- |
-| IP | 45.76.186.13 |
+| IP | 45.77.177.125 |
 | VPN类型 | PPTP |
 | 用户名 | www.darrenliuwei.com |
 | 密码 |  www.sphard.com |
