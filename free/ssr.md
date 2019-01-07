@@ -37,7 +37,7 @@ SSR链接: ssr://NDUuNzcuMTc3LjEyNTo1NTU1OmF1dGhfc2hhMV92NDphZXMtMjU2LWNmYjpwbGF
 | 加密 |  aes-256-cfb |
 
 
-![free-ssr-新加坡](https://i.imgur.com/RpLAEuC.png)
+![free-ssr-新加坡](https://i.imgur.com/IXWjzK2.png)
 
 | ShadowsocksR账号-新加坡 | 配置信息 |
 | :--- | :--------- |
@@ -50,7 +50,7 @@ SSR链接: ssr://NDUuNzcuMTc3LjEyNTo1NTU1OmF1dGhfc2hhMV92NDphZXMtMjU2LWNmYjpwbGF
 
 SSR链接: ssr://NDUuNzYuMTg2LjEzOjIyMjI6YXV0aF9zaGExX3Y0OmFlcy0yNTYtY2ZiOnBsYWluOmQzZDNMbk53YUdGeVpDNWpiMjA
 
-![free-ss-新加坡](https://i.imgur.com/b5uO3nb.png)
+![free-ss-新加坡](https://i.imgur.com/cj7yJTy.png)
 
 | Shadowsocks账号-新加坡 | 配置信息 |
 | :--- | :--------- |

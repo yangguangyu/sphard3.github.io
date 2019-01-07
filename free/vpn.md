@@ -2,9 +2,9 @@
 <iframe width="100%" height="415" src="https://www.youtube.com/embed/jJycMNEF4Ec" frameborder="0" gesture="media" allow="encrypted-media" allowfullscreen></iframe>
 <iframe width="100%" height="415" src="https://www.youtube.com/embed/qrYC5nS7gZw" frameborder="0" gesture="media" allow="encrypted-media" allowfullscreen></iframe>
 
-#### 2019年1月6日：更新免费VPN账号
+#### 2019年1月7日：更新免费VPN账号
 
-| VPN新加坡节点 | 账号信息 |
+| VPN日本节点 | 账号信息 |
 | :--- | :--------- |
 | IP | 45.77.177.125 |
 | VPN类型 | PPTP |
