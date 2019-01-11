@@ -6,10 +6,10 @@
 
 | VPN日本节点 | 账号信息 |
 | :--- | :--------- |
-| IP | 45.77.177.125 |
+| IP | 45.76.212.115 |
 | VPN类型 | PPTP |
-| 用户名 | www.darrenliuwei.com |
-| 密码 |  www.sphard.com |
+| 用户名 | www.sphard.com |
+| 密码 |  www.darrenliuwei.com |
 
 ### FreeVPN
 * 优点：免费、使用非常简单
