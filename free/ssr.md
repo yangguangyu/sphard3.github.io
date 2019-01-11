@@ -58,7 +58,7 @@
 
 <hr>
 
-![free-ssr-新加坡](https://i.imgur.com/IXWjzK2.png)
+![free-ssr-新加坡](https://i.imgur.com/zcYi7VH.png)
 
 | ShadowsocksR账号-新加坡 | 配置信息 |
 | :--- | :--------- |
@@ -69,7 +69,7 @@
 | 协议 |  auth_sha1_v4 |
 | 混淆 |  plain |
 
-![free-ss-新加坡](https://i.imgur.com/cj7yJTy.png)
+![free-ss-新加坡](https://i.imgur.com/bV2eAMl.png)
 
 | Shadowsocks账号-新加坡 | 配置信息 |
 | :--- | :--------- |
