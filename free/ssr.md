@@ -13,7 +13,10 @@
 
 7. freess每天自动更新SS账号: [https://io.freess.org](https://io.freess.org)
 
-#### 2019年1月11日更新: 新增美国节点的ss和ssr，更新日本和新加坡节点配置
+#### 2019年1月14日更新: 更新日本节点的ss和ssr配置信息
+
+建议每个人都学习一下自己搭建翻墙软件，学一门技能有备无患。而且 [电子书](https://sphard2.github.io/gfw) 里就有现成的手把手教程。
+
 ![free-ssr-美国纽约](https://i.imgur.com/gTqMtYv.png)
 
 | ShadowsocksR账号-美国纽约 | 配置信息 |
@@ -36,24 +39,24 @@
 
 <hr>
 
-![free-ssr-日本东京](https://i.imgur.com/izcTDY2.png)
+![free-ssr-日本东京](https://i.imgur.com/18DXBbn.png)
 
 | ShadowsocksR账号-日本东京 | 配置信息 |
 | :--- | :--------- |
 | IP | 45.76.212.115 |
-| 端口 | 2144 |
-| 密码 |  www.darrenliuwei.com |
+| 端口 | 1234 |
+| 密码 |  www.sphard.com |
 | 加密 |  aes-256-cfb |
 | 协议 |  auth_sha1_v4 |
 | 混淆 |  plain |
 
-![free-ss-日本东京](https://i.imgur.com/eUX05Xb.png)
+![free-ss-日本东京](https://i.imgur.com/rbUeHhW.png)
 
 | Shadowsocks账号-日本东京 | 配置信息 |
 | :--- | :--------- |
 | IP | 45.76.212.115 |
-| 端口 | 1233 |
-| 密码 |  www.sphard.com |
+| 端口 | 4321 |
+| 密码 |  www.darrenliuwei.com |
 | 加密 |  aes-256-cfb |
 
 <hr>
@@ -80,8 +83,8 @@
 
 <hr>
 
-#### 2019年1月11日：更新账号端口
-<img src="https://raw.githubusercontent.com/Alvin9999/PAC/master/ss/4018.PNG" width="100%" height="100%">
+#### 2019年1月13日：更新账号密码
+<img src="https://raw.githubusercontent.com/Alvin9999/PAC/master/ss/4020.PNG" width="100%" height="100%">
 
 <iframe width="100%" height="415" src="https://www.youtube.com/embed/aT1dO5oekso" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 <iframe width="100%" height="415" src="https://www.youtube.com/embed/uB9jkLncfbw" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>

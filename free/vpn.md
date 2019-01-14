@@ -2,7 +2,7 @@
 <iframe width="100%" height="415" src="https://www.youtube.com/embed/jJycMNEF4Ec" frameborder="0" gesture="media" allow="encrypted-media" allowfullscreen></iframe>
 <iframe width="100%" height="415" src="https://www.youtube.com/embed/qrYC5nS7gZw" frameborder="0" gesture="media" allow="encrypted-media" allowfullscreen></iframe>
 
-#### 2019年1月7日：更新免费VPN账号
+#### 2019年1月14日：更新免费VPN账号
 
 | VPN日本节点 | 账号信息 |
 | :--- | :--------- |
