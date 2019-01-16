@@ -2,15 +2,6 @@
 <iframe width="100%" height="415" src="https://www.youtube.com/embed/jJycMNEF4Ec" frameborder="0" gesture="media" allow="encrypted-media" allowfullscreen></iframe>
 <iframe width="100%" height="415" src="https://www.youtube.com/embed/qrYC5nS7gZw" frameborder="0" gesture="media" allow="encrypted-media" allowfullscreen></iframe>
 
-#### 2019年1月14日：更新免费VPN账号
-
-| VPN日本节点 | 账号信息 |
-| :--- | :--------- |
-| IP | 45.76.212.115 |
-| VPN类型 | PPTP |
-| 用户名 | www.sphard.com |
-| 密码 |  www.darrenliuwei.com |
-
 ### FreeVPN
 * 优点：免费、使用非常简单
 * 缺点：速度一般

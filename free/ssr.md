@@ -13,78 +13,56 @@
 
 7. freess每天自动更新SS账号: [https://io.freess.org](https://io.freess.org)
 
-#### 2019年1月14日更新: 更新日本节点的ss和ssr配置信息
+#### 2019年1月16日更新节点配置信息
 
 建议每个人都学习一下自己搭建翻墙软件，学一门技能有备无患。而且 [电子书](https://sphard2.github.io/gfw) 里就有现成的手把手教程。
 
-![free-ssr-美国纽约](https://i.imgur.com/gTqMtYv.png)
+![free-ssr-英国伦敦](https://i.imgur.com/OAsqEJV.png)
 
-| ShadowsocksR账号-美国纽约 | 配置信息 |
+| ShadowsocksR账号-英国伦敦 | 配置信息 |
 | :--- | :--------- |
-| IP | 207.246.121.118 |
+| IP | 95.179.199.131 |
+| 端口 | 2233 |
+| 密码 |  www.sphard.com |
+| 加密 |  aes-256-cfb |
+| 协议 |  auth_sha1_v4 |
+| 混淆 |  plain |
+
+![free-ss-英国伦敦](https://i.imgur.com/UyXkyCS.png)
+
+| Shadowsocks账号-英国伦敦 | 配置信息 |
+| :--- | :--------- |
+| IP | 95.179.199.131 |
 | 端口 | 3322 |
 | 密码 |  www.darrenliuwei.com |
 | 加密 |  aes-256-cfb |
-| 协议 |  auth_sha1_v4 |
-| 混淆 |  plain |
-
-![free-ss-美国纽约](https://i.imgur.com/1j3eXsK.png)
-
-| Shadowsocks账号-美国纽约 | 配置信息 |
-| :--- | :--------- |
-| IP | 207.246.121.118 |
-| 端口 | 2233 |
-| 密码 |  www.darrenliuwei.com |
-| 加密 |  aes-256-cfb |
 
 <hr>
 
-![free-ssr-日本东京](https://i.imgur.com/18DXBbn.png)
-
-| ShadowsocksR账号-日本东京 | 配置信息 |
-| :--- | :--------- |
-| IP | 45.76.212.115 |
-| 端口 | 1234 |
-| 密码 |  www.sphard.com |
-| 加密 |  aes-256-cfb |
-| 协议 |  auth_sha1_v4 |
-| 混淆 |  plain |
-
-![free-ss-日本东京](https://i.imgur.com/rbUeHhW.png)
-
-| Shadowsocks账号-日本东京 | 配置信息 |
-| :--- | :--------- |
-| IP | 45.76.212.115 |
-| 端口 | 4321 |
-| 密码 |  www.darrenliuwei.com |
-| 加密 |  aes-256-cfb |
-
-<hr>
-
-![free-ssr-新加坡](https://i.imgur.com/zcYi7VH.png)
+![free-ssr-新加坡](https://i.imgur.com/DjmFyXk.png)
 
 | ShadowsocksR账号-新加坡 | 配置信息 |
 | :--- | :--------- |
-| IP | 45.76.186.13 |
-| 端口 | 2121 |
-| 密码 |  www.darrenliuwei.com |
+| IP | 139.180.146.29 |
+| 端口 | 1212 |
+| 密码 |  www.sphard.com |
 | 加密 |  aes-256-cfb |
 | 协议 |  auth_sha1_v4 |
 | 混淆 |  plain |
 
-![free-ss-新加坡](https://i.imgur.com/bV2eAMl.png)
+![free-ss-新加坡](https://i.imgur.com/4FVqAjt.png)
 
 | Shadowsocks账号-新加坡 | 配置信息 |
 | :--- | :--------- |
-| IP | 45.76.186.13 |
-| 端口 | 3434 |
-| 密码 |  www.sphard.com |
+| IP | 139.180.146.29 |
+| 端口 | 4343 |
+| 密码 |  www.darrenliuwei.com |
 | 加密 |  aes-256-cfb |
 
 <hr>
 
-#### 2019年1月13日：更新账号密码
-<img src="https://raw.githubusercontent.com/Alvin9999/PAC/master/ss/4020.PNG" width="100%" height="100%">
+#### 2019年1月16日：更新账号密码
+<img src="https://raw.githubusercontent.com/Alvin9999/PAC/master/ss/4022.PNG" width="100%" height="100%">
 
 <iframe width="100%" height="415" src="https://www.youtube.com/embed/aT1dO5oekso" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 <iframe width="100%" height="415" src="https://www.youtube.com/embed/uB9jkLncfbw" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
