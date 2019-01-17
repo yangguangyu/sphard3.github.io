@@ -13,9 +13,31 @@
 
 7. freess每天自动更新SS账号: [https://io.freess.org](https://io.freess.org)
 
-#### 2019年1月16日更新节点配置信息
+#### 2019年1月17日更新: 新增日本东京节点
 
-建议每个人都学习一下自己搭建翻墙软件，学一门技能有备无患。而且 [电子书](https://sphard2.github.io/gfw) 里就有现成的手把手教程。
+建议每个人都学习一下自己搭建翻墙软件，学一门技能有备无患。而且 [电子书《科学上网翻墙教程》](https://sphard2.github.io/gfw) 里就有现成的手把手教程。
+
+![free-ssr-日本东京](https://i.imgur.com/VIpnUt2.png)
+
+| ShadowsocksR账号-日本东京 | 配置信息 |
+| :--- | :--------- |
+| IP | 45.76.212.115 |
+| 端口 | 1155 |
+| 密码 | www.darrenliuwei.com |
+| 加密 | aes-256-cfb |
+| 协议 | auth_sha1_v4 |
+| 混淆 | plain |
+
+![free-ss-日本东京](https://i.imgur.com/KPxvSzM.png)
+
+| Shadowsocks账号-日本东京 | 配置信息 |
+| :--- | :--------- |
+| IP | 45.76.212.115 |
+| 端口 | 5511 |
+| 密码 | www.sphard.com |
+| 加密 | aes-256-cfb |
+
+<hr>
 
 ![free-ssr-英国伦敦](https://i.imgur.com/OAsqEJV.png)
 
@@ -23,10 +45,10 @@
 | :--- | :--------- |
 | IP | 95.179.199.131 |
 | 端口 | 2233 |
-| 密码 |  www.sphard.com |
-| 加密 |  aes-256-cfb |
-| 协议 |  auth_sha1_v4 |
-| 混淆 |  plain |
+| 密码 | www.sphard.com |
+| 加密 | aes-256-cfb |
+| 协议 | auth_sha1_v4 |
+| 混淆 | plain |
 
 ![free-ss-英国伦敦](https://i.imgur.com/UyXkyCS.png)
 
@@ -34,8 +56,8 @@
 | :--- | :--------- |
 | IP | 95.179.199.131 |
 | 端口 | 3322 |
-| 密码 |  www.darrenliuwei.com |
-| 加密 |  aes-256-cfb |
+| 密码 | www.darrenliuwei.com |
+| 加密 | aes-256-cfb |
 
 <hr>
 
@@ -45,10 +67,10 @@
 | :--- | :--------- |
 | IP | 139.180.146.29 |
 | 端口 | 1212 |
-| 密码 |  www.sphard.com |
-| 加密 |  aes-256-cfb |
-| 协议 |  auth_sha1_v4 |
-| 混淆 |  plain |
+| 密码 | www.sphard.com |
+| 加密 | aes-256-cfb |
+| 协议 | auth_sha1_v4 |
+| 混淆 | plain |
 
 ![free-ss-新加坡](https://i.imgur.com/4FVqAjt.png)
 
@@ -56,8 +78,8 @@
 | :--- | :--------- |
 | IP | 139.180.146.29 |
 | 端口 | 4343 |
-| 密码 |  www.darrenliuwei.com |
-| 加密 |  aes-256-cfb |
+| 密码 | www.darrenliuwei.com |
+| 加密 | aes-256-cfb |
 
 <hr>
 
