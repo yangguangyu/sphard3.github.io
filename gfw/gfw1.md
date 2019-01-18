@@ -4,4 +4,4 @@
 建立防火墙主要是为了防止大陆人民访问那些不受中国政府监控的网站，防止人民脱离监控。
 
 防火墙主要设计者是[方滨兴](https://zh.wikipedia.org/wiki/%E6%96%B9%E6%BB%A8%E5%85%B4)
-<a href="https://www.vultr.com/?ref=7295225"><img src="https://www.vultr.com/media/banner_1.png" width="100%" height="90"></a>
+<a href="https://www.vultr.com/?ref=7775614-4F"><img src="https://www.vultr.com/media/banner_1.png" width="100%" height="90"></a>

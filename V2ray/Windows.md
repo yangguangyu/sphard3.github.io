@@ -13,4 +13,4 @@ V2Ray官网：[https://www.v2ray.com](https://www.v2ray.com)
 
 ## Windows 和 Mac OS 安装方式
 通过上述方式下载的压缩包，解压之后可看到 v2ray 或 v2ray.exe。直接运行即可。
-<a href="https://www.vultr.com/?ref=7295225"><img src="https://www.vultr.com/media/banner_1.png" width="100%" height="90"></a>
+<a href="https://www.vultr.com/?ref=7775614-4F"><img src="https://www.vultr.com/media/banner_1.png" width="100%" height="90"></a>

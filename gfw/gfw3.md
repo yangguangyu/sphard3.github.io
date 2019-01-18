@@ -84,4 +84,4 @@
 
 感谢参考: [逗比根据地--->关于目前 GFW(墙) 的封锁方式TCP封锁(阻断)猜想](https://doub.io/sxsx-14/)
 
-<a href="https://www.vultr.com/?ref=7295225"><img src="https://www.vultr.com/media/banner_1.png" width="100%" height="90"></a>
+<a href="https://www.vultr.com/?ref=7775614-4F"><img src="https://www.vultr.com/media/banner_1.png" width="100%" height="90"></a>

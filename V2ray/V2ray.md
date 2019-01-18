@@ -126,4 +126,4 @@ bash <(curl -L -s https://install.direct/go.sh)
 }
 ```
 上述配置唯一要改的地方就是你的服务器 IP，配置中已注明。上述配置会把除了局域网（比如访问路由器）之外的所有流量转发到你的服务器。
-<a href="https://www.vultr.com/?ref=7295225"><img src="https://www.vultr.com/media/banner_1.png" width="100%" height="90"></a>
+<a href="https://www.vultr.com/?ref=7775614-4F"><img src="https://www.vultr.com/media/banner_1.png" width="100%" height="90"></a>

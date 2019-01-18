@@ -3,19 +3,17 @@
 
 2. 免费ss/ssr分享: [https://github.com/gfw-breaker/ssr-accounts](https://github.com/gfw-breaker/ssr-accounts)
 
-3. 免费ss/ssr节点分享: [https://www.wuwweb.com](https://www.wuwweb.com)
+3. 自由浏览2.0: [https://freebrowser.org](https://freebrowser.org)
 
-4. 自由浏览2.0: [https://freebrowser.org](https://freebrowser.org)
+4. 免费SSR帐号分享: [http://www.52ssr.net](http://www.52ssr.net)
 
-5. 免费SSR帐号分享: [http://www.52ssr.net](http://www.52ssr.net)
+5. FreeSS - Free Network Assistant and Analysis Information: [https://ss.freess.today](https://ss.freess.today)
 
-6. FreeSS - Free Network Assistant and Analysis Information: [https://ss.freess.today](https://ss.freess.today)
-
-7. freess每天自动更新SS账号: [https://io.freess.org](https://io.freess.org)
+6. freess每天自动更新SS账号: [https://io.freess.org](https://io.freess.org)
 
 #### 2019年1月17日更新: 新增日本东京节点
 
-建议每个人都学习一下自己搭建翻墙软件，学一门技能有备无患。而且 [电子书《科学上网翻墙教程》](https://sphard2.github.io/gfw) 里就有现成的手把手教程。
+建议每个人都学习一下自己搭建翻墙软件，学一门技能有备无患。而且 [电子书《科学上网翻墙教程》](https://sphard2.github.io/gfw) 里就有免费的手把手教程。
 
 ![free-ssr-日本东京](https://i.imgur.com/VIpnUt2.png)
 
@@ -91,4 +89,4 @@
 
 #### 如果以上有哪个免费资源用不了了，可以给我发邮件: darrenliuwei@gmail.com
 
-<a href="https://www.vultr.com/?ref=7295225"><img src="https://www.vultr.com/media/banner_1.png" width="100%" height="90"></a>
+<a href="https://www.vultr.com/?ref=7775614-4F"><img src="https://www.vultr.com/media/banner_1.png" width="100%" height="90"></a>

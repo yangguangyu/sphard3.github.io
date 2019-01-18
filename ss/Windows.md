@@ -6,4 +6,4 @@ Shadowsocks官网: [https://shadowsocks.org](https://shadowsocks.org)
 Shadowsocks官方GitHub: [https://github.com/shadowsocks](https://github.com/shadowsocks)
 
 Shadowsocks for Windows 客户端下载: [https://github.com/shadowsocks/shadowsocks-windows/releases](https://github.com/shadowsocks/shadowsocks-windows/releases)
-<a href="https://www.vultr.com/?ref=7295225"><img src="https://www.vultr.com/media/banner_1.png" width="100%" height="90"></a>
+<a href="https://www.vultr.com/?ref=7775614-4F"><img src="https://www.vultr.com/media/banner_1.png" width="100%" height="90"></a>

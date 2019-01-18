@@ -60,4 +60,4 @@
 
 #### 如果以上有哪个免费资源用不了了，可以给我发邮件: darrenliuwei@gmail.com
 
-<a href="https://www.vultr.com/?ref=7295225"><img src="https://www.vultr.com/media/banner_1.png" width="100%" height="90"></a>
+<a href="https://www.vultr.com/?ref=7775614-4F"><img src="https://www.vultr.com/media/banner_1.png" width="100%" height="90"></a>

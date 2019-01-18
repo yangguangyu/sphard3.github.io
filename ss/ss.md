@@ -50,4 +50,4 @@ cat /etc/shadowsocks.json
 ### 修改ss配置信息
 方法1: 修改文件`/etc/shadowsocks.json`<br>
 方法2: 重新安装`./shadowsocks.sh`
-<a href="https://www.vultr.com/?ref=7295225"><img src="https://www.vultr.com/media/banner_1.png" width="100%" height="90"></a>
+<a href="https://www.vultr.com/?ref=7775614-4F"><img src="https://www.vultr.com/media/banner_1.png" width="100%" height="90"></a>

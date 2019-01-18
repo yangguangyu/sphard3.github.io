@@ -71,4 +71,4 @@ Linux SSR客户端  [点击下载地址](https://github.com/erguotou520/electron
 在对应的位置，填上服务器IP、服务器端口、密码、加密方式、协议和混淆，最后点击确认
 
 **现在你就可以愉快地科学上网了**
-<a href="https://www.vultr.com/?ref=7295225"><img src="https://www.vultr.com/media/banner_1.png" width="100%" height="90"></a>
+<a href="https://www.vultr.com/?ref=7775614-4F"><img src="https://www.vultr.com/media/banner_1.png" width="100%" height="90"></a>

@@ -4,4 +4,4 @@
 每个人都有不同的需求，但不管怎样，免费翻墙软件的需求还是挺大的
 
 所以接下来我就给大家介绍一些好用的免费翻墙资源
-<a href="https://www.vultr.com/?ref=7295225"><img src="https://www.vultr.com/media/banner_1.png" width="100%" height="90"></a>
+<a href="https://www.vultr.com/?ref=7775614-4F"><img src="https://www.vultr.com/media/banner_1.png" width="100%" height="90"></a>
