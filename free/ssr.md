@@ -11,7 +11,7 @@
 
 6. freess每天自动更新SS账号: [https://io.freess.org](https://io.freess.org)
 
-#### 2019年1月20日更新日本东京和新加坡节点
+#### 2019年1月20日更新日本东京、澳大利亚和新加坡节点
 
 建议每个人都学习一下自己搭建翻墙软件，学一门技能有备无患。而且 [电子书《科学上网翻墙教程》](https://sphard2.github.io/gfw) 里就有免费的手把手教程。
 
@@ -37,24 +37,24 @@
 
 <hr>
 
-![free-ssr-英国伦敦](https://i.imgur.com/OAsqEJV.png)
+![free-ssr-澳大利亚](https://i.imgur.com/Tn4GYf4.png)
 
-| ShadowsocksR账号-英国伦敦 | 配置信息 |
+| ShadowsocksR账号-澳大利亚 | 配置信息 |
 | :--- | :--------- |
-| IP | 95.179.199.131 |
-| 端口 | 2233 |
-| 密码 | www.sphard.com |
+| IP | 149.28.181.41 |
+| 端口 | 1144 |
+| 密码 | www.darrenliuwei.com |
 | 加密 | aes-256-cfb |
 | 协议 | auth_sha1_v4 |
 | 混淆 | plain |
 
-![free-ss-英国伦敦](https://i.imgur.com/UyXkyCS.png)
+![free-ss-澳大利亚](https://i.imgur.com/vBVDEQR.png)
 
-| Shadowsocks账号-英国伦敦 | 配置信息 |
+| Shadowsocks账号-澳大利亚 | 配置信息 |
 | :--- | :--------- |
-| IP | 95.179.199.131 |
-| 端口 | 3322 |
-| 密码 | www.darrenliuwei.com |
+| IP | 149.28.181.41 |
+| 端口 | 2255 |
+| 密码 | www.sphard.com |
 | 加密 | aes-256-cfb |
 
 <hr>
