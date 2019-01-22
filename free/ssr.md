@@ -11,72 +11,72 @@
 
 6. freess每天自动更新SS账号: [https://io.freess.org](https://io.freess.org)
 
-#### 2019年1月20日更新日本东京、澳大利亚和新加坡节点
+#### 2019年1月23日更新: 新增法国巴黎节点
 
 建议每个人都学习一下自己搭建翻墙软件，学一门技能有备无患。而且 [电子书《科学上网翻墙教程》](https://sphard2.github.io/gfw) 里就有免费的手把手教程。
 
-![free-ssr-日本东京](https://i.imgur.com/5BTCOHx.png)
+![free-ssr-法国巴黎](https://i.imgur.com/salPy2D.png)
 
-| ShadowsocksR账号-日本东京 | 配置信息 |
+| ShadowsocksR账号-法国巴黎 | 配置信息 |
 | :--- | :--------- |
-| IP | 202.182.106.16 |
-| 端口 | 5511 |
-| 密码 | www.sphard.com |
+| IP | 95.179.210.194 |
+| 端口 | 1155 |
+| 密码 | www.darrenliuwei.com |
 | 加密 | aes-256-cfb |
 | 协议 | auth_sha1_v4 |
 | 混淆 | plain |
 
-![free-ss-日本东京](https://i.imgur.com/HbvLb9V.png)
+![free-ss-法国巴黎](https://i.imgur.com/6XecWnP.png)
 
-| Shadowsocks账号-日本东京 | 配置信息 |
+| Shadowsocks账号-法国巴黎 | 配置信息 |
 | :--- | :--------- |
-| IP | 202.182.106.16 |
-| 端口 | 1312 |
-| 密码 | www.darrenliuwei.com |
+| IP | 95.179.210.194 |
+| 端口 | 3121 |
+| 密码 | www.sphard.com |
 | 加密 | aes-256-cfb |
 
 <hr>
 
-![free-ssr-澳大利亚](https://i.imgur.com/Tn4GYf4.png)
+![free-ssr-澳大利亚](https://i.imgur.com/9wkWFyS.png)
 
 | ShadowsocksR账号-澳大利亚 | 配置信息 |
 | :--- | :--------- |
-| IP | 149.28.181.41 |
-| 端口 | 1144 |
-| 密码 | www.darrenliuwei.com |
+| IP | 45.76.124.108 |
+| 端口 | 2233 |
+| 密码 | www.sphard.com |
 | 加密 | aes-256-cfb |
 | 协议 | auth_sha1_v4 |
 | 混淆 | plain |
 
-![free-ss-澳大利亚](https://i.imgur.com/vBVDEQR.png)
+![free-ss-澳大利亚](https://i.imgur.com/qlC63RO.png)
 
 | Shadowsocks账号-澳大利亚 | 配置信息 |
 | :--- | :--------- |
-| IP | 149.28.181.41 |
-| 端口 | 2255 |
-| 密码 | www.sphard.com |
+| IP | 45.76.124.108 |
+| 端口 | 1144 |
+| 密码 | www.darrenliuwei.com |
 | 加密 | aes-256-cfb |
 
 <hr>
 
-![free-ssr-新加坡](https://i.imgur.com/Dtpp4Sz.png)
+![free-ssr-新加坡](https://i.imgur.com/27CGqVv.png)
 
 | ShadowsocksR账号-新加坡 | 配置信息 |
 | :--- | :--------- |
 | IP | 45.76.186.63 |
-| 端口 | 3131 |
-| 密码 | www.darrenliuwei.com |
+| 端口 | 1234 |
+| 密码 | www.sphard.com |
 | 加密 | aes-256-cfb |
 | 协议 | auth_sha1_v4 |
 | 混淆 | plain |
 
-![free-ss-新加坡](https://i.imgur.com/tO2B7kz.png)
+![free-ss-新加坡](https://i.imgur.com/hhIFfC5.png)
 
 | Shadowsocks账号-新加坡 | 配置信息 |
 | :--- | :--------- |
 | IP | 45.76.186.63 |
-| 端口 | 1314 |
-| 密码 | www.sphard.com |
+| 端口 | 4321 |
+| 密码 | www.darrenliuwei.com |
 | 加密 | aes-256-cfb |
 
 <hr>
