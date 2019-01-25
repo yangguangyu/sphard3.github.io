@@ -14,7 +14,7 @@
 * 缺点：有流量限制：每月500MB，不支持iOS
 * 系统：Linux、Windows、MacOS、Android
 * 中文：支持中文
-* 下载：[蓝灯官网](https://getlantern.org '蓝灯官网')(需翻墙), [GitHub地址](https://github.com/getlantern/forum/issues/833 'GitHub地址')(不需要翻墙)
+* 下载：[蓝灯官网](https://getlantern.org '蓝灯官网')(需翻墙), [GitHub地址](https://github.com/getlantern/download/wiki 'GitHub地址')(不需要翻墙)
 
 ### Windscribe
 * 优点：有免费版，并且抗封能力较强
