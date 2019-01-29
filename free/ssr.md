@@ -11,72 +11,72 @@
 
 6. freess每天自动更新SS账号: [https://io.freess.org](https://io.freess.org)
 
-#### 2019年1月25日更新节点配置信息
+#### 2019年1月29日更新节点配置信息
 
 建议每个人都学习一下自己搭建翻墙软件，学一门技能有备无患。而且 [电子书《科学上网翻墙教程》](https://sphard2.github.io/gfw) 里就有免费的手把手教程。
 
-![free-ssr-法国巴黎](https://i.imgur.com/svwz6jS.png)
+![free-ssr-法国巴黎](https://i.imgur.com/qmX7ov4.png)
 
 | ShadowsocksR账号-法国巴黎 | 配置信息 |
 | :--- | :--------- |
-| IP | 217.69.10.113 |
-| 端口 | 2233 |
-| 密码 | www.sphard.com |
+| IP | 95.179.210.194 |
+| 端口 | 1144 |
+| 密码 | www.darrenliuwei.com |
 | 加密 | aes-256-cfb |
 | 协议 | auth_sha1_v4 |
 | 混淆 | plain |
 
-![free-ss-法国巴黎](https://i.imgur.com/Fv5ESQt.png)
+![free-ss-法国巴黎](https://i.imgur.com/XsnlfMM.png)
 
 | Shadowsocks账号-法国巴黎 | 配置信息 |
 | :--- | :--------- |
-| IP | 217.69.10.113 |
-| 端口 | 4455 |
-| 密码 | www.darrenliuwei.com |
+| IP | 95.179.210.194 |
+| 端口 | 3355 |
+| 密码 | www.sphard.com |
 | 加密 | aes-256-cfb |
 
 <hr>
 
-![free-ssr-澳大利亚](https://i.imgur.com/WfteSqL.png)
+![free-ssr-澳大利亚](https://i.imgur.com/CzhrPIg.png)
 
 | ShadowsocksR账号-澳大利亚 | 配置信息 |
 | :--- | :--------- |
 | IP | 45.76.124.108 |
-| 端口 | 4466 |
-| 密码 | www.darrenliuwei.com |
+| 端口 | 1234 |
+| 密码 | www.sphard.com |
 | 加密 | aes-256-cfb |
 | 协议 | auth_sha1_v4 |
 | 混淆 | plain |
 
-![free-ss-澳大利亚](https://i.imgur.com/jLHwFbO.png)
+![free-ss-澳大利亚](https://i.imgur.com/WCsTc1y.png)
 
 | Shadowsocks账号-澳大利亚 | 配置信息 |
 | :--- | :--------- |
 | IP | 45.76.124.108 |
-| 端口 | 2277 |
-| 密码 | www.sphard.com |
+| 端口 | 2367 |
+| 密码 | www.darrenliuwei.com |
 | 加密 | aes-256-cfb |
 
 <hr>
 
-![free-ssr-新加坡](https://i.imgur.com/RJJCSF4.png)
+![free-ssr-新加坡](https://i.imgur.com/NH4LH8N.png)
 
 | ShadowsocksR账号-新加坡 | 配置信息 |
 | :--- | :--------- |
 | IP | 45.76.186.63 |
-| 端口 | 5432 |
-| 密码 | www.darrenliuwei.com |
+| 端口 | 1122 |
+| 密码 | www.sphard.com |
 | 加密 | aes-256-cfb |
 | 协议 | auth_sha1_v4 |
 | 混淆 | plain |
 
-![free-ss-新加坡](https://i.imgur.com/yn3pser.png)
+![free-ss-新加坡](https://i.imgur.com/in9e82r.png)
 
 | Shadowsocks账号-新加坡 | 配置信息 |
 | :--- | :--------- |
 | IP | 45.76.186.63 |
-| 端口 | 2345 |
-| 密码 | www.sphard.com |
+| 端口 | 3344 |
+| 密码 | www.darrenliuwei.com |
 | 加密 | aes-256-cfb |
 
 <hr>
