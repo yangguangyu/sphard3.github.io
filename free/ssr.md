@@ -11,28 +11,50 @@
 
 6. freess每天自动更新SS账号: [https://io.freess.org](https://io.freess.org)
 
-#### 2019年2月5日更新节点配置信息
+#### 2019年2月12日更新节点配置信息
 
 建议每个人都学习一下自己搭建翻墙软件，学一门技能有备无患。而且 [电子书《科学上网翻墙教程》](https://sphard2.github.io/gfw) 里就有免费的手把手教程。
 
-![free-ssr-澳大利亚](https://i.imgur.com/I2WKCd4.png)
+![free-ssr-美国-亚特兰大](https://i.imgur.com/VhiGRto.png)
 
-| ShadowsocksR账号-澳大利亚 | 配置信息 |
+| ShadowsocksR账号-美国-亚特兰大 | 配置信息 |
 | :--- | :--------- |
-| IP | 45.76.124.108 |
-| 端口 | 4455 |
+| IP | 155.138.197.45 |
+| 端口 | 1234 |
 | 密码 | www.sphard.com |
 | 加密 | aes-256-cfb |
 | 协议 | auth_sha1_v4 |
 | 混淆 | plain |
 
-![free-ss-澳大利亚](https://i.imgur.com/LVc8Fpr.png)
+![free-ss-美国-亚特兰大](https://i.imgur.com/waRenLs.png)
 
-| Shadowsocks账号-澳大利亚 | 配置信息 |
+| Shadowsocks账号-美国-亚特兰大 | 配置信息 |
 | :--- | :--------- |
-| IP | 45.76.124.108 |
-| 端口 | 1234 |
+| IP | 155.138.197.45 |
+| 端口 | 4321 |
 | 密码 | www.darrenliuwei.com |
+| 加密 | aes-256-cfb |
+
+<hr>
+
+![free-ssr-美国-亚特兰大2](https://i.imgur.com/5VFYwZl.png)
+
+| ShadowsocksR账号-美国-亚特兰大2 | 配置信息 |
+| :--- | :--------- |
+| IP | 155.138.197.47 |
+| 端口 | 2233 |
+| 密码 | www.darrenliuwei.com |
+| 加密 | aes-256-cfb |
+| 协议 | auth_sha1_v4 |
+| 混淆 | plain |
+
+![free-ss-美国-亚特兰大2](https://i.imgur.com/WuMmYPv.png)
+
+| Shadowsocks账号-美国-亚特兰大2 | 配置信息 |
+| :--- | :--------- |
+| IP | 155.138.197.47 |
+| 端口 | 4455 |
+| 密码 | www.sphard.com |
 | 加密 | aes-256-cfb |
 
 #### 2019年1月25日：更新账号端口和密码
