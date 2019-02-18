@@ -11,54 +11,54 @@
 
 6. freess每天自动更新SS账号: [https://io.freess.org](https://io.freess.org)
 
-#### 2019年2月12日更新节点配置信息
+#### 2019年2月18日更新节点配置信息
 
 建议每个人都学习一下自己搭建翻墙软件，学一门技能有备无患。而且 [电子书《科学上网翻墙教程》](https://sphard2.github.io/gfw) 里就有免费的手把手教程。
 
-![free-ssr-美国-亚特兰大](https://i.imgur.com/VhiGRto.png)
+![free-ssr-澳大利亚](https://i.imgur.com/YbByFST.png)
 
-| ShadowsocksR账号-美国-亚特兰大 | 配置信息 |
+| ShadowsocksR账号-澳大利亚 | 配置信息 |
 | :--- | :--------- |
-| IP | 155.138.197.45 |
-| 端口 | 1234 |
+| IP | 45.76.124.108 |
+| 端口 | 1155 |
 | 密码 | www.sphard.com |
 | 加密 | aes-256-cfb |
 | 协议 | auth_sha1_v4 |
 | 混淆 | plain |
 
-![free-ss-美国-亚特兰大](https://i.imgur.com/waRenLs.png)
+![free-ss-澳大利亚](https://i.imgur.com/3Mh3x6X.png)
 
-| Shadowsocks账号-美国-亚特兰大 | 配置信息 |
+| Shadowsocks账号-澳大利亚 | 配置信息 |
 | :--- | :--------- |
-| IP | 155.138.197.45 |
-| 端口 | 4321 |
+| IP | 45.76.124.108 |
+| 端口 | 2266 |
 | 密码 | www.darrenliuwei.com |
 | 加密 | aes-256-cfb |
 
 <hr>
 
-![free-ssr-美国-亚特兰大2](https://i.imgur.com/5VFYwZl.png)
+![free-ssr-日本-东京](https://i.imgur.com/Oy2ohRj.png)
 
-| ShadowsocksR账号-美国-亚特兰大2 | 配置信息 |
+| ShadowsocksR账号-日本-东京 | 配置信息 |
 | :--- | :--------- |
-| IP | 155.138.197.47 |
-| 端口 | 2233 |
+| IP | 202.182.107.78 |
+| 端口 | 2211 |
 | 密码 | www.darrenliuwei.com |
 | 加密 | aes-256-cfb |
 | 协议 | auth_sha1_v4 |
 | 混淆 | plain |
 
-![free-ss-美国-亚特兰大2](https://i.imgur.com/WuMmYPv.png)
+![free-ss-日本-东京](https://i.imgur.com/yKFcjUY.png)
 
-| Shadowsocks账号-美国-亚特兰大2 | 配置信息 |
+| Shadowsocks账号-日本-东京 | 配置信息 |
 | :--- | :--------- |
-| IP | 155.138.197.47 |
-| 端口 | 4455 |
+| IP | 202.182.107.78 |
+| 端口 | 3344 |
 | 密码 | www.sphard.com |
 | 加密 | aes-256-cfb |
 
-#### 2019年1月25日：更新账号端口和密码
-<img src="https://raw.githubusercontent.com/Alvin9999/PAC/master/ss/ssr4026.PNG" width="100%" height="100%">
+#### 2019年2月14日：更新账号端口
+<img src="https://raw.githubusercontent.com/Alvin9999/PAC/master/ss/ssr4028.PNG" width="100%" height="100%">
 
 <iframe width="100%" height="415" src="https://www.youtube.com/embed/aT1dO5oekso" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 <iframe width="100%" height="415" src="https://www.youtube.com/embed/uB9jkLncfbw" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
