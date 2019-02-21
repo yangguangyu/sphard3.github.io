@@ -9,32 +9,32 @@
 
 5. FreeSS - Free Network Assistant and Analysis Information: [https://ss.freess.today](https://ss.freess.today)
 
-6. freess每天自动更新SS账号: [https://io.freess.org](https://io.freess.org)
-
-#### 2019年2月18日更新节点配置信息
+#### 2019年2月21日更新澳大利亚节点配置信息
 
 建议每个人都学习一下自己搭建翻墙软件，学一门技能有备无患。而且 [电子书《科学上网翻墙教程》](https://sphard2.github.io/gfw) 里就有免费的手把手教程。
 
-![free-ssr-澳大利亚](https://i.imgur.com/YbByFST.png)
+![free-ssr-澳大利亚](https://i.imgur.com/zI03Kc1.png)
 
 | ShadowsocksR账号-澳大利亚 | 配置信息 |
 | :--- | :--------- |
 | IP | 45.76.124.108 |
-| 端口 | 1155 |
-| 密码 | www.sphard.com |
+| 端口 | 3344 |
+| 密码 | www.darrenliuwei.com |
 | 加密 | aes-256-cfb |
 | 协议 | auth_sha1_v4 |
 | 混淆 | plain |
 
-![free-ss-澳大利亚](https://i.imgur.com/3Mh3x6X.png)
+![free-ss-澳大利亚](https://i.imgur.com/YJnNUg3.png)
 
 | Shadowsocks账号-澳大利亚 | 配置信息 |
 | :--- | :--------- |
 | IP | 45.76.124.108 |
-| 端口 | 2266 |
-| 密码 | www.darrenliuwei.com |
+| 端口 | 5577 |
+| 密码 | www.sphard.com |
 | 加密 | aes-256-cfb |
 
+<hr>
+<hr>
 <hr>
 
 ![free-ssr-日本-东京](https://i.imgur.com/Oy2ohRj.png)
