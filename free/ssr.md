@@ -57,8 +57,8 @@
 | 密码 | www.sphard.com |
 | 加密 | aes-256-cfb |
 
-#### 2019年2月14日：更新账号端口
-<img src="https://raw.githubusercontent.com/Alvin9999/PAC/master/ss/ssr4028.PNG" width="100%" height="100%">
+#### 2019年2月22日：更新账号端口
+<img src="https://raw.githubusercontent.com/Alvin9999/PAC/master/ss/ssr4030.PNG" width="100%" height="100%">
 
 <iframe width="100%" height="415" src="https://www.youtube.com/embed/aT1dO5oekso" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 <iframe width="100%" height="415" src="https://www.youtube.com/embed/uB9jkLncfbw" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
