@@ -1,18 +1,16 @@
 # 永久免费ss/ssr翻墙科学上网账号密码资源分享
 1. 免费ShadowSocks帐号:[https://free-ss.site](https://free-ss.site)
 
-2. 免费ss/ssr分享: [https://github.com/gfw-breaker/ssr-accounts](https://github.com/gfw-breaker/ssr-accounts)
+2. 自由浏览VPN: [https://freebrowser.org](https://freebrowser.org)
 
-3. 自由浏览2.0: [https://freebrowser.org](https://freebrowser.org)
+3. 免费SSR帐号分享: [http://www.52ssr.net](http://www.52ssr.net)
 
-4. 免费SSR帐号分享: [http://www.52ssr.net](http://www.52ssr.net)
-
-5. FreeSS - Free Network Assistant and Analysis Information: [https://ss.freess.today](https://ss.freess.today)
+4. FreeSS - Free Network Assistant and Analysis Information: [https://ss.freess.today](https://ss.freess.today)
 
 #### 2019年2月28日更新澳大利亚节点配置信息
 
 建议每个人都学习一下自己搭建翻墙软件，学一门技能有备无患。而且 [电子书《科学上网翻墙教程》](https://sphard2.github.io/gfw) 里就有免费的手把手教程。<br>
-[Vultr](https://www.vultr.com/?ref=7775614-4F)在2019年2月的最新活动，针对新用户，直接送50美元！
+[Vultr](https://www.vultr.com/?ref=7775614-4F)在2019年3月的最新活动，针对新用户，直接送50美元！
 
 ![free-ssr-澳大利亚](https://i.imgur.com/woPqcqC.png)
 
