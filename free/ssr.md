@@ -7,38 +7,38 @@
 
 4. FreeSS - Free Network Assistant and Analysis Information: [https://ss.freess.today](https://ss.freess.today)
 
-#### 2019年3月3日更新日本和新加坡节点配置信息
+#### 2019年3月4日新增一台日本节点服务器
 
 建议每个人都学习一下自己搭建翻墙软件，学一门技能有备无患。而且 [电子书《科学上网翻墙教程》](https://sphard2.github.io/gfw) 里就有免费的手把手教程。<br>
 [Vultr](https://www.vultr.com/?ref=7775614-4F)在2019年3月的最新活动，针对新用户，直接送50美元！
 
-![free-ssr-澳大利亚](https://i.imgur.com/woPqcqC.png)
+![free-ssr-日本-东京1](https://i.imgur.com/3sYYmUS.png)
 
-| ShadowsocksR账号-澳大利亚 | 配置信息 |
+| ShadowsocksR账号-日本-东京1 | 配置信息 |
 | :--- | :--------- |
-| IP | 45.76.124.108 |
-| 端口 | 3344 |
-| 密码 | www.darrenliuwei.com |
+| IP | 45.32.58.124 |
+| 端口 | 1166 |
+| 密码 | www.sphard.com |
 | 加密 | aes-256-cfb |
 | 协议 | auth_sha1_v4 |
 | 混淆 | plain |
 
-![free-ss-澳大利亚](https://i.imgur.com/wtxp2Du.png)
+![free-ss-日本-东京1](https://i.imgur.com/p9pld6H.png)
 
-| Shadowsocks账号-澳大利亚 | 配置信息 |
+| Shadowsocks账号-日本-东京1 | 配置信息 |
 | :--- | :--------- |
-| IP | 45.76.124.108 |
-| 端口 | 5566 |
-| 密码 | www.sphard.com |
+| IP | 45.32.58.124 |
+| 端口 | 2255 |
+| 密码 | www.darrenliuwei.com |
 | 加密 | aes-256-cfb |
 
 <hr>
 <hr>
 <hr>
 
-![free-ssr-日本-东京](https://i.imgur.com/6zDS9t9.png)
+![free-ssr-日本-东京2](https://i.imgur.com/6zDS9t9.png)
 
-| ShadowsocksR账号-日本-东京 | 配置信息 |
+| ShadowsocksR账号-日本-东京2 | 配置信息 |
 | :--- | :--------- |
 | IP | 202.182.107.78 |
 | 端口 | 2211 |
@@ -47,9 +47,9 @@
 | 协议 | auth_sha1_v4 |
 | 混淆 | plain |
 
-![free-ss-日本-东京](https://i.imgur.com/XTtLtaW.png)
+![free-ss-日本-东京2](https://i.imgur.com/XTtLtaW.png)
 
-| Shadowsocks账号-日本-东京 | 配置信息 |
+| Shadowsocks账号-日本-东京2 | 配置信息 |
 | :--- | :--------- |
 | IP | 202.182.107.78 |
 | 端口 | 3344 |
