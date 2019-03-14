@@ -7,9 +7,9 @@
 
 4. FreeSS - Free Network Assistant and Analysis Information: [https://ss.freess.today](https://ss.freess.today)
 
-#### 2019年3月13日更新澳大利亚和日本节点
+#### 2019年3月14日更新新加坡节点
 
-建议每个人都学习一下自己搭建翻墙软件，学一门技能有备无患。而且 [电子书《科学上网翻墙教程》](https://sphard2.github.io/gfw) 里就有免费的手把手教程。<br>
+建议每个人都学习一下自己搭建翻墙软件，学一门技能有备无患。而且 [电子书《科学上网翻墙教程》](https://sphard3.github.io/gfw) 里就有免费的手把手教程。<br>
 [Vultr](https://www.vultr.com/?ref=7775614-4F)在2019年3月的最新活动，针对新用户，直接送50美元！
 
 ![free-ssr-日本-东京](https://i.imgur.com/T7wFK8f.png)
@@ -60,24 +60,24 @@
 <hr>
 <hr>
 
-![free-ssr-新加坡](https://i.imgur.com/UrwHsof.png)
+![free-ssr-新加坡](https://i.imgur.com/kDpwvFL.png)
 
 | ShadowsocksR账号-新加坡 | 配置信息 |
 | :--- | :--------- |
 | IP | 45.77.254.220 |
-| 端口 | 5678 |
-| 密码 | www.darrenliuwei.com |
+| 端口 | 1234 |
+| 密码 | www.sphard.com |
 | 加密 | aes-256-cfb |
 | 协议 | auth_sha1_v4 |
 | 混淆 | plain |
 
-![free-ss-新加坡](https://i.imgur.com/t0MERH6.png)
+![free-ss-新加坡](https://i.imgur.com/WasHjv3.png)
 
 | Shadowsocks账号-新加坡 | 配置信息 |
 | :--- | :--------- |
 | IP | 45.77.254.220 |
-| 端口 | 8765 |
-| 密码 | www.sphard.com |
+| 端口 | 5678 |
+| 密码 | www.darrenliuwei.com |
 | 加密 | aes-256-cfb |
 
 #### 2019年3月6日：更新账号端口
