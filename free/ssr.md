@@ -7,29 +7,29 @@
 
 4. FreeSS - Free Network Assistant and Analysis Information: [https://ss.freess.today](https://ss.freess.today)
 
-#### 2019年3月19日更新节点信息
+#### 2019年3月22日更新节点信息
 
-建议每个人都学习一下自己搭建翻墙软件，学一门技能有备无患。而且 [电子书《科学上网翻墙教程》](https://sphard3.github.io) 里就有免费的手把手教程。<br>
+建议每个人都学习一下自己搭建翻墙软件，学一门技能有备无患。而且 [电子书《科学上网翻墙教程》](https://6liuwei.github.io) 里就有免费的手把手教程。<br>
 [Vultr](https://www.vultr.com/?ref=7775614-4F)在2019年3月的最新活动，针对新用户，直接送50美元！
 
-![free-ssr-日本-东京](https://i.imgur.com/spz3wuW.png)
+![free-ssr-日本-东京](https://www.png8.com/2019/03/22/5c94dc4c00afc.png)
 
 | ShadowsocksR账号-日本-东京 | 配置信息 |
 | :--- | :--------- |
 | IP | 45.77.18.60 |
-| 端口 | 3344 |
-| 密码 | www.darrenliuwei.com |
+| 端口 | 1122 |
+| 密码 | www.sphard.com |
 | 加密 | aes-256-cfb |
 | 协议 | auth_sha1_v4 |
 | 混淆 | plain |
 
-![free-ss-日本-东京](https://i.imgur.com/gNeltiW.png)
+![free-ss-日本-东京](https://www.png8.com/2019/03/22/5c94dcfa55792.png)
 
 | Shadowsocks账号-日本-东京 | 配置信息 |
 | :--- | :--------- |
 | IP | 45.77.18.60 |
-| 端口 | 5566 |
-| 密码 | www.sphard.com |
+| 端口 | 3344 |
+| 密码 | www.darrenliuwei.com |
 | 加密 | aes-256-cfb |
 
 <hr>
