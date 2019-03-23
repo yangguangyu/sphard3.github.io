@@ -27,7 +27,7 @@ chmod +x shadowsocks.sh
 ```
 
 2. 安装完成示例<br>
-![ss](https://i.imgur.com/Mnc8xsh.png)
+![ss](https://www.png8.com/2019/03/23/5c95977e8df71.png)
 
 ### 卸载ss
 使用 root 用户登录服务器, 运行以下命令

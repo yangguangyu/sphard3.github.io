@@ -19,8 +19,8 @@ systemctl status docker
 wget -qO- https://raw.githubusercontent.com/Jigsaw-Code/outline-server/master/src/server_manager/install_scripts/install_server.sh | bash
 ```
 在电脑上下载安装 Outline 管理端
-![](https://user-images.githubusercontent.com/34980980/38570402-56fcdae4-3d20-11e8-9f86-580c34adc83d.png)
+![1](https://www.png8.com/2019/03/23/5c959b95ce20e.png)
 
 然后在想要使用的平台上下载相应的客户端
-![](https://user-images.githubusercontent.com/34980980/38570513-9b6ec7fa-3d20-11e8-9018-dfea764e36a9.png)
+![2](https://www.png8.com/2019/03/23/5c959bb134841.png)
 <a href="https://www.vultr.com/?ref=7775614-4F"><img src="https://www.vultr.com/media/banner_1.png" width="100%" height="90"></a>

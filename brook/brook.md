@@ -3,7 +3,7 @@
 <iframe width="100%" height="500" src="//player.bilibili.com/player.html?aid=24457027&cid=41068024&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>
 Brook 项目地址: [https://github.com/txthinking/brook](https://github.com/txthinking/brook)<br>
 
-注意: 在搭建 Brook 时，一定要在未翻墙状态下先 [ping 一下服务器IP](https://sphard2.github.io/gfw/ping-IP.html)地址
+注意: 在搭建 Brook 时，一定要在未翻墙状态下先 [ping 一下服务器IP](https://sphard3.github.io/ping-IP.html)地址
 
 ### 安装 Brook
 执行下面的代码下载并运行脚本
