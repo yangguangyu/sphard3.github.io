@@ -7,77 +7,77 @@
 
 4. FreeSS - Free Network Assistant and Analysis Information: [https://ss.freess.today](https://ss.freess.today)
 
-#### 2019年3月23日更新澳大利亚和新加坡节点信息
+#### 2019年3月26日更新节点信息
 
 建议每个人都学习一下自己搭建翻墙软件，学一门技能有备无患。而且 [电子书《科学上网翻墙教程》](https://sphard3.github.io) 里就有免费的手把手教程。<br>
 [Vultr](https://www.vultr.com/?ref=7775614-4F)在2019年3月的最新活动，针对新用户，直接送50美元！
 
-![free-ssr-日本-东京](https://www.png8.com/2019/03/22/5c94dc4c00afc.png)
+![free-ssr-日本-东京](https://www.png8.com/2019/03/26/5c9982f442f8a.png)
 
 | ShadowsocksR账号-日本-东京 | 配置信息 |
 | :--- | :--------- |
 | IP | 45.77.18.60 |
+| 端口 | 1234 |
+| 密码 | www.darrenliuwei.com |
+| 加密 | aes-256-cfb |
+| 协议 | auth_sha1_v4 |
+| 混淆 | plain |
+
+![free-ss-日本-东京](https://www.png8.com/2019/03/26/5c99839a63be6.png)
+
+| Shadowsocks账号-日本-东京 | 配置信息 |
+| :--- | :--------- |
+| IP | 45.77.18.60 |
+| 端口 | 5678 |
+| 密码 | www.sphard.com |
+| 加密 | aes-256-cfb |
+
+<hr>
+<hr>
+<hr>
+
+![free-ssr-澳大利亚](https://www.png8.com/2019/03/26/5c9987cfc5a16.png)
+
+| ShadowsocksR账号-澳大利亚 | 配置信息 |
+| :--- | :--------- |
+| IP | 149.28.176.168 |
 | 端口 | 1122 |
 | 密码 | www.sphard.com |
 | 加密 | aes-256-cfb |
 | 协议 | auth_sha1_v4 |
 | 混淆 | plain |
 
-![free-ss-日本-东京](https://www.png8.com/2019/03/22/5c94dcfa55792.png)
-
-| Shadowsocks账号-日本-东京 | 配置信息 |
-| :--- | :--------- |
-| IP | 45.77.18.60 |
-| 端口 | 3344 |
-| 密码 | www.darrenliuwei.com |
-| 加密 | aes-256-cfb |
-
-<hr>
-<hr>
-<hr>
-
-![free-ssr-澳大利亚](https://www.png8.com/2019/03/23/5c95912150a0e.png)
-
-| ShadowsocksR账号-澳大利亚 | 配置信息 |
-| :--- | :--------- |
-| IP | 149.28.176.168 |
-| 端口 | 3344 |
-| 密码 | www.darrenliuwei.com |
-| 加密 | aes-256-cfb |
-| 协议 | auth_sha1_v4 |
-| 混淆 | plain |
-
-![free-ss-澳大利亚](https://www.png8.com/2019/03/23/5c9591ca57cce.png)
+![free-ss-澳大利亚](https://www.png8.com/2019/03/26/5c9988682c835.png)
 
 | Shadowsocks账号-澳大利亚 | 配置信息 |
 | :--- | :--------- |
 | IP | 149.28.176.168 |
-| 端口 | 5566 |
-| 密码 | www.sphard.com |
+| 端口 | 3344 |
+| 密码 | www.darrenliuwei.com |
 | 加密 | aes-256-cfb |
 
 <hr>
 <hr>
 <hr>
 
-![free-ssr-新加坡](https://www.png8.com/2019/03/23/5c95934a4829e.png)
+![free-ssr-新加坡](https://www.png8.com/2019/03/26/5c9985733cab5.png)
 
 | ShadowsocksR账号-新加坡 | 配置信息 |
 | :--- | :--------- |
 | IP | 45.77.254.220 |
-| 端口 | 1234 |
-| 密码 | www.sphard.com |
+| 端口 | 1122 |
+| 密码 | www.darrenliuwei.com |
 | 加密 | aes-256-cfb |
 | 协议 | auth_sha1_v4 |
 | 混淆 | plain |
 
-![free-ss-新加坡](https://www.png8.com/2019/03/23/5c9593e915264.png)
+![free-ss-新加坡](https://www.png8.com/2019/03/26/5c998656ee359.png)
 
 | Shadowsocks账号-新加坡 | 配置信息 |
 | :--- | :--------- |
 | IP | 45.77.254.220 |
-| 端口 | 6789 |
-| 密码 | www.darrenliuwei.com |
+| 端口 | 3344 |
+| 密码 | www.sphard.com |
 | 加密 | aes-256-cfb |
 
 #### 2019年3月18日：更新账号端口
