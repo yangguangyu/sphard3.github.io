@@ -5,7 +5,7 @@
 
 3. FreeSS - Free Network Assistant and Analysis Information: [https://ss.freess.today](https://ss.freess.today)
 
-#### 2019年4月4日新增英国-伦敦节点
+#### 2019年4月4日新增 英国-伦敦 和 新加坡3 节点
 
 建议每个人都学习一下自己搭建翻墙软件，学一门技能有备无患。而且 [电子书《科学上网翻墙教程》](https://sphard3.github.io) 里就有免费的手把手教程。<br>
 [Vultr](https://www.vultr.com/?ref=7775614-4F)在2019年4月的最新活动，针对新用户，直接送50美元！
@@ -34,6 +34,9 @@ Telegram交流群: https://t.me/joinchat/Myz3IhJmkQdWTjn4IceS0Q
 <hr>
 ![free-ssr-英国-伦敦](https://www.png8.com/2019/04/04/5ca5756b7d12b.png)
 ![free-ss-英国-伦敦](https://www.png8.com/2019/04/04/5ca57642abcc2.png)
+<hr>
+![free-ssr-新加坡3](https://www.png8.com/2019/04/04/5ca61c178e091.png)
+![free-ss-新加坡3](https://www.png8.com/2019/04/04/5ca61d85801ce.png)
 
 #### 2019年4月1日：更新账号端口
 <img src="https://raw.githubusercontent.com/Alvin9999/PAC/master/ss/ssr4040.PNG" width="100%" height="100%">
