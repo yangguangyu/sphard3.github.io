@@ -5,7 +5,7 @@
 
 3. FreeSS - Free Network Assistant and Analysis Information: [https://ss.freess.today](https://ss.freess.today)
 
-#### 2019年4月5日增加 荷兰-阿姆斯特丹 节点
+#### 2019年4月6日更新 日本-东京 节点信息
 
 建议每个人都学习一下自己搭建翻墙软件，学一门技能有备无患。而且 [电子书《科学上网翻墙教程》](https://sphard3.github.io) 里就有免费的手把手教程。<br>
 [Vultr](https://www.vultr.com/?ref=7775614-4F)在2019年4月的最新活动，针对新用户，直接送50美元！
@@ -20,8 +20,8 @@ Telegram交流群: https://t.me/sphard
 
 >我做这个站点一开始是为了回馈支持我的粉丝们，所以我自掏腰包买了这几台服务器，并且持续维护，而且我对速度和连接数都没有进行任何限制。
 
-![free-ssr-日本-东京](https://www.png8.com/2019/04/02/5ca2ce2c0fb62.png)
-![free-ss-日本-东京](https://www.png8.com/2019/04/02/5ca2cfdcb8e72.png)
+![free-ssr-日本-东京](https://www.png8.com/2019/04/06/5ca892fc43753.png)
+![free-ss-日本-东京](https://www.png8.com/2019/04/06/5ca893b381a90.png)
 <hr>
 ![free-ssr-新加坡1](https://www.png8.com/2019/04/02/5ca2d30b185e8.png)
 ![free-ss-新加坡1](https://www.png8.com/2019/04/02/5ca2d362c9a44.png)
