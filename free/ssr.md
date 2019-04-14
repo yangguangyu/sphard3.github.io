@@ -5,7 +5,7 @@
 
 3. FreeSS - Free Network Assistant and Analysis Information: [https://ss.freess.today](https://ss.freess.today)
 
-#### 2019年4月13日更新 日本1 端口号
+#### 2019年4月14日新增 香港1 节点
 
 建议每个人都学习一下自己搭建翻墙软件，学一门技能有备无患。而且 [电子书《科学上网翻墙教程》](https://sphard3.github.io) 里就有免费的手把手教程。<br>
 [Vultr](https://www.vultr.com/?ref=7775614-4F)在2019年4月的最新活动，针对新用户，直接送50美元！
@@ -34,6 +34,9 @@ Telegram交流群: https://t.me/sphard
 <hr>
 ![free-ssr-荷兰-阿姆斯特丹](https://www.png8.com/2019/04/05/5ca723e21223b.png)
 ![free-ss-荷兰-阿姆斯特丹](https://www.png8.com/2019/04/05/5ca72456a1789.png)
+<hr>
+![free-ssr-香港1](https://www.png8.com/2019/04/14/5cb2de302f13e.png)
+![free-ss-香港1](https://www.png8.com/2019/04/14/5cb2df0d335a1.png)
 <hr>
 ![free-ssr-新加坡2](https://www.png8.com/2019/04/05/5ca6cd9908396.png)
 ![free-ss-新加坡2](https://www.png8.com/2019/04/05/5ca6ce4abff13.png)
